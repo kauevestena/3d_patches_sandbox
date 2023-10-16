@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": {
+        "type": "Feature",
+        "geometry": {},
+        "properties": {
+            "altitude": 113.3564355,
+            "atomic_scale": 0.991897631215,
+            "camera_parameters": [
+                0.8934594364552,
+                -0.00045568614390749,
+                -0.0094611613450556
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1565106131592,
+            "compass_angle": 123.68965866282,
+            "computed_altitude": 1.892912434414,
+            "computed_compass_angle": 133.23933736069,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.213067190899,
+                    45.475347566193
+                ]
+            },
+            "computed_rotation": [
+                0.69005690929913,
+                -1.6106657428679,
+                1.8270959632687
+            ],
+            "exif_orientation": 1,
+            "height": 3024,
+            "thumb_256_url": "https:\\/\\/scontent-mxp2-1.xx.fbcdn.net\\/m1\\/v\\/t6\\/An8nkn4ymo6eItvgeOq_m7_uwroDKPqFEedLNiVZpUdCwmWcKO5fpbn496Ky8m4to31eqgnWpO_7tjCR4qdWmPQCykqfDBXEN7ZZDrXJfCrgQo3ouVztVs3mf1skRAd-yuRY5dIrM4LYRX3ZU_nocw?stp=s256x192&ccb=10-5&oh=00_AfBHU5_tLsII2gnHVrP45A0qdUhzoNz9mijlqzYf8_elgw&oe=6554A42D&_nc_sid=201bca",
+            "thumb_1024_url": "https:\\/\\/scontent-mxp2-1.xx.fbcdn.net\\/m1\\/v\\/t6\\/An8nkn4ymo6eItvgeOq_m7_uwroDKPqFEedLNiVZpUdCwmWcKO5fpbn496Ky8m4to31eqgnWpO_7tjCR4qdWmPQCykqfDBXEN7ZZDrXJfCrgQo3ouVztVs3mf1skRAd-yuRY5dIrM4LYRX3ZU_nocw?stp=s1024x768&ccb=10-5&oh=00_AfALr9nfQPABgc3gD8NVhBJDmqTP8whcGwUSJX2KKcQOug&oe=6554A42D&_nc_sid=201bca",
+            "thumb_2048_url": "https:\\/\\/scontent-mxp2-1.xx.fbcdn.net\\/m1\\/v\\/t6\\/An8nkn4ymo6eItvgeOq_m7_uwroDKPqFEedLNiVZpUdCwmWcKO5fpbn496Ky8m4to31eqgnWpO_7tjCR4qdWmPQCykqfDBXEN7ZZDrXJfCrgQo3ouVztVs3mf1skRAd-yuRY5dIrM4LYRX3ZU_nocw?stp=s2048x1536&ccb=10-5&oh=00_AfBAcZZV03ztROaFQWjgWtUoCZvdNZrC7evqPgnXebN0IQ&oe=6554A42D&_nc_sid=201bca",
+            "merge_cc": 8.5652985906491e+17,
+            "mesh": {
+                "id": "298356035231350",
+                "url": "https:\\/\\/scontent-mxp2-1.xx.fbcdn.net\\/m1\\/v\\/t0.40361-6\\/An85EuVICXiYxa4f-3gXSW9kbU6ffDwzluGTp4ii6-lqqIKWswdv3swG6Cq9ub3VttlM-2StSH_UfrTc67d5LwO-m3IfO21VyGWLRmp8uTDcVsm7v5dEMbkT0oYa4tfWk9s?ccb=10-5&oh=00_AfDDWiOhsqM77sGLIXrzYYrBJWNcI6E1cbzoB-cmr-2-Sg&oe=6554B263&_nc_sid=5e042c"
+            },
+            "quality_score": 0.66575500770416,
+            "sequence": "fbps4ixjref4y0s9y2sc9g",
+            "sfm_cluster": {
+                "id": "170939551616897",
+                "url": "https:\\/\\/scontent-mxp2-1.xx.fbcdn.net\\/m1\\/v\\/t0.40383-6\\/An_6Kmz_PMlmrq3wVYiwSqYsiSLsxpPDJw86xMPRAWjZOyzxPZbSqeBuch92nivrNG9mG1IxJDbF169lZnNpcyzN4Bvm82wI9mAPB_yQGz5qt4wpzOAi0RWGOKfK14mLvG13BZMVOteSoA?ccb=10-5&oh=00_AfBHnmHq59G8QGxjPXv224g4kJh2D0maCWdgQbbUQ9_D8Q&oe=6554B5E7&_nc_sid=fbd883"
+            },
+            "width": 4032,
+            "id": "314546700331431"
+        }
+    }
+}
