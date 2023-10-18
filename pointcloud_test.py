@@ -9,7 +9,7 @@ img_data = read_json('image_data.json')
 
 img = cv2.imread('inputs/sample_mapillary.jpeg')
 
-depth_data = np.load('inputs/depthmap.npy')
+depth_data = np.load('inputs/depthmap2.npy')
 
 H,W,d = img.shape
 
@@ -22,10 +22,10 @@ ref_dim = max(H,W)
 
 f = img_data['features']['properties']['camera_parameters'][0] * ref_dim
 
-f_alternate = 0.777 * ref_dim
+f_alternate = 0.788 * ref_dim
 
 
-with open('point_cloud_alternative.xyz','w+') as writer:
+with open('point_cloud_v2.xyz','w+') as writer:
     for c in tqdm(range(W)):
         for l in range(H):
             pi = np.array([c-t_w,l-t_h,f_alternate])
