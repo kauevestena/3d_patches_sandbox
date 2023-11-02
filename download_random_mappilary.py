@@ -2,6 +2,9 @@ import requests
 import os
 import json
 import numpy as np
+from shapely.geometry import Point, box
+from math import cos, pi
+import urllib
 
 # download the following number of random mappilary images
 n_downloads = 1000
@@ -39,6 +42,8 @@ with open('sample_random_coords.csv', 'w+') as f:
         lon, lat = random_point_in_bbox(bbox)
         f.write(f'{lon}, {lat}\n')
 
+import requests
+
 def get_mapillary_images(minLat, minLon, maxLat, maxLon, token):
     """
     Request images from Mapillary API given two coordinates and radius.
@@ -57,14 +62,35 @@ def get_mapillary_images(minLat, minLon, maxLat, maxLon, token):
     params = {
         "bbox": f"{minLon},{minLat},{maxLon},{maxLat}",
         "access_token": token,
-        "params": [
-            "altitude", "atomic_scale", "camera_parameters", "camera_type", "captured_at",
-            "compass_angle", "computed_altitude", "computed_compass_angle", "computed_geometry",
-            "computed_rotation", "creator", "exif_orientation", "geometry", "height", "is_pano",
-            "make", "model", "thumb_256_url", "thumb_1024_url", "thumb_2048_url",
-            "thumb_original_url", "merge_cc", "mesh", "sequence", "sfm_cluster", "width",
-            "detections"
-        ]
+        "fields": ",".join([
+            "altitude", 
+            "atomic_scale", 
+            "camera_parameters", 
+            "camera_type", 
+            "captured_at",
+            "compass_angle", 
+            "computed_altitude", 
+            "computed_compass_angle", 
+            "computed_geometry",
+            "computed_rotation", 
+            "creator", 
+            "exif_orientation", 
+            "geometry", 
+            "height", 
+            # "is_pano",
+            "make", 
+            "model", 
+            # "thumb_256_url", 
+            # "thumb_1024_url", 
+            # "thumb_2048_url",
+            "thumb_original_url", 
+            "merge_cc", 
+            # "mesh", 
+            "sequence", 
+            # "sfm_cluster", 
+            "width",
+            # "detections",
+        ])
     }
     response = requests.get(url, params=params)
     return response.json()
@@ -87,8 +113,7 @@ def get_bounding_box(lon, lat, radius):
     Returns: 
         tuple: A tuple containing the minimum and maximum longitude and latitude of the bounding box.
     """
-    from shapely.geometry import Point, box
-    from math import cos, pi
+
 
     # Convert radius from meters to degrees
     radius_deg = radius_to_degrees(radius, lat)
@@ -111,8 +136,8 @@ response = get_mapillary_images(point_bbox[1], point_bbox[0], point_bbox[3], poi
 # gdf.to_file('sample_image_data.geojson', driver='GeoJSON')
 
 #saving the response:
-with open('sample_image_data.json', 'w+') as f:
-    json.dump(response, f)
+with open('sample_image_data.json', 'w+',encoding='utf-8') as f:
+    json.dump(response, f, indent=4,ensure_ascii=False)
 
 # for image in response['data']:
 #     print(image['thumb_256_url'])

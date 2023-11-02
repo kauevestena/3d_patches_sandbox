@@ -1,1 +1,4328 @@
-{"data": [{"geometry": {"type": "Point", "coordinates": [8.4036124999722, 49.005190399972]}, "id": "1216112072578767"}, {"geometry": {"type": "Point", "coordinates": [8.4036225, 49.0052285]}, "id": "5832027203474440"}, {"geometry": {"type": "Point", "coordinates": [8.4037092746451, 49.005106652797]}, "id": "481231233199029"}, {"geometry": {"type": "Point", "coordinates": [8.4035829999722, 49.004994299972]}, "id": "106459765542949"}, {"geometry": {"type": "Point", "coordinates": [8.4037071, 49.0053037]}, "id": "153752173289903"}, {"geometry": {"type": "Point", "coordinates": [8.4036048999722, 49.005146799972]}, "id": "1278360879566021"}, {"geometry": {"type": "Point", "coordinates": [8.4033622999722, 49.005191899972]}, "id": "469707470955540"}, {"geometry": {"type": "Point", "coordinates": [8.4034259999722, 49.005453799972]}, "id": "991379488271533"}, {"geometry": {"type": "Point", "coordinates": [8.4034327616803, 49.005331176639]}, "id": "4225711944116675"}, {"geometry": {"type": "Point", "coordinates": [8.4034847999722, 49.0052796]}, "id": "459394542383700"}, {"geometry": {"type": "Point", "coordinates": [8.4033844864615, 49.005214696308]}, "id": "605590260399669"}, {"geometry": {"type": "Point", "coordinates": [8.4036352, 49.0052474]}, "id": "383761890597319"}, {"geometry": {"type": "Point", "coordinates": [8.4036301, 49.0052475]}, "id": "1706049716438787"}, {"geometry": {"type": "Point", "coordinates": [8.4036325999722, 49.0052413]}, "id": "176795468242280"}, {"geometry": {"type": "Point", "coordinates": [8.403631, 49.005244799972]}, "id": "802340277581718"}, {"geometry": {"type": "Point", "coordinates": [8.4036284, 49.005246399972]}, "id": "609565897227230"}, {"geometry": {"type": "Point", "coordinates": [8.4037117999722, 49.005310199972]}, "id": "330463092260272"}, {"geometry": {"type": "Point", "coordinates": [8.40389095, 49.0053007]}, "id": "239144841320865"}, {"geometry": {"type": "Point", "coordinates": [8.4036530999722, 49.005361999972]}, "id": "1120227918588099"}, {"geometry": {"type": "Point", "coordinates": [8.403483868256, 49.005473275098]}, "id": "913676386292341"}, {"geometry": {"type": "Point", "coordinates": [8.4036294999722, 49.0052456]}, "id": "1228717777950384"}, {"geometry": {"type": "Point", "coordinates": [8.4038851, 49.0053235]}, "id": "899419624108114"}, {"geometry": {"type": "Point", "coordinates": [8.4036597999722, 49.005489099972]}, "id": "803504307730499"}, {"geometry": {"type": "Point", "coordinates": [8.4033712999722, 49.0052498]}, "id": "201617705509292"}, {"geometry": {"type": "Point", "coordinates": [8.4035998, 49.005117499972]}, "id": "435087445259377"}, {"geometry": {"type": "Point", "coordinates": [8.4035955999722, 49.0050797]}, "id": "1263976424417058"}, {"geometry": {"type": "Point", "coordinates": [8.40358371, 49.00507679]}, "id": "755229031852894"}, {"geometry": {"type": "Point", "coordinates": [8.4036281, 49.005247599972]}, "id": "1172546886666183"}, {"geometry": {"type": "Point", "coordinates": [8.4034210999722, 49.0054244]}, "id": "975067083323606"}, {"geometry": {"type": "Point", "coordinates": [8.4038571, 49.0054238]}, "id": "3053076684920125"}, {"geometry": {"type": "Point", "coordinates": [8.4036480999722, 49.0053264]}, "id": "877327859897437"}, {"geometry": {"type": "Point", "coordinates": [8.40382093, 49.00526786]}, "id": "902025563691218"}, {"geometry": {"type": "Point", "coordinates": [8.4036331, 49.0052513]}, "id": "2843196045897764"}, {"geometry": {"type": "Point", "coordinates": [8.4034350999722, 49.0055113]}, "id": "477051446850717"}, {"geometry": {"type": "Point", "coordinates": [8.4036320999722, 49.0052456]}, "id": "180593921134413"}, {"geometry": {"type": "Point", "coordinates": [8.4036304, 49.005246599972]}, "id": "157863876849130"}, {"geometry": {"type": "Point", "coordinates": [8.4036323999722, 49.005242899972]}, "id": "596140525565578"}, {"geometry": {"type": "Point", "coordinates": [8.4034317, 49.005418833064]}, "id": "424503975570230"}, {"geometry": {"type": "Point", "coordinates": [8.403398777162, 49.005355846016]}, "id": "5666435330131342"}, {"geometry": {"type": "Point", "coordinates": [8.4036314999722, 49.005247099972]}, "id": "1727300370937421"}, {"geometry": {"type": "Point", "coordinates": [8.4035333, 49.0052279]}, "id": "806207483634954"}, {"geometry": {"type": "Point", "coordinates": [8.4037071, 49.0053037]}, "id": "971428826937580"}, {"geometry": {"type": "Point", "coordinates": [8.4033885, 49.0052621]}, "id": "913413796124110"}, {"geometry": {"type": "Point", "coordinates": [8.4034338, 49.0052228]}, "id": "1113605162480143"}, {"geometry": {"type": "Point", "coordinates": [8.4035705, 49.0054864]}, "id": "2764477477186819"}, {"geometry": {"type": "Point", "coordinates": [8.4038571, 49.0054238]}, "id": "367759227976189"}, {"geometry": {"type": "Point", "coordinates": [8.4035519, 49.0051711]}, "id": "302583644641481"}, {"geometry": {"type": "Point", "coordinates": [8.4035333, 49.0052279]}, "id": "309638074004852"}, {"geometry": {"type": "Point", "coordinates": [8.40372846, 49.00523605]}, "id": "3734255660020029"}, {"geometry": {"type": "Point", "coordinates": [8.4036308, 49.0052462]}, "id": "1105610756721993"}, {"geometry": {"type": "Point", "coordinates": [8.4036291999722, 49.0052487]}, "id": "477041534420459"}, {"geometry": {"type": "Point", "coordinates": [8.4036278, 49.0052486]}, "id": "1210637813054834"}, {"geometry": {"type": "Point", "coordinates": [8.4034004, 49.0052949]}, "id": "3090638994503697"}, {"geometry": {"type": "Point", "coordinates": [8.4036387, 49.005252599972]}, "id": "3180610982189726"}, {"geometry": {"type": "Point", "coordinates": [8.4033511999722, 49.0051129]}, "id": "975788706492604"}, {"geometry": {"type": "Point", "coordinates": [8.40387849, 49.00529958]}, "id": "2851465125121570"}, {"geometry": {"type": "Point", "coordinates": [8.4038931, 49.0052332]}, "id": "492550101787790"}, {"geometry": {"type": "Point", "coordinates": [8.4034098, 49.005327899972]}, "id": "820082145285850"}, {"geometry": {"type": "Point", "coordinates": [8.4034144, 49.0053629]}, "id": "765348437677831"}, {"geometry": {"type": "Point", "coordinates": [8.4036331, 49.0052475]}, "id": "407501854860342"}, {"geometry": {"type": "Point", "coordinates": [8.4036180999722, 49.005208099972]}, "id": "392866283028258"}, {"geometry": {"type": "Point", "coordinates": [8.4036589999722, 49.005446399972]}, "id": "114754484580789"}, {"geometry": {"type": "Point", "coordinates": [8.4036088, 49.0051696]}, "id": "1496048534244529"}, {"geometry": {"type": "Point", "coordinates": [8.403548, 49.005013]}, "id": "2987520158151388"}, {"geometry": {"type": "Point", "coordinates": [8.4036331, 49.0052513]}, "id": "322408826075091"}, {"geometry": {"type": "Point", "coordinates": [8.40383218, 49.00509393]}, "id": "2913820868882132"}, {"geometry": {"type": "Point", "coordinates": [8.4036217, 49.0052218]}, "id": "373979478277468"}, {"geometry": {"type": "Point", "coordinates": [8.4036399999722, 49.0052693]}, "id": "790040205665391"}, {"geometry": {"type": "Point", "coordinates": [8.4034159999722, 49.005394099972]}, "id": "465193167914954"}, {"geometry": {"type": "Point", "coordinates": [8.403530442623, 49.005262]}, "id": "463521161616979"}, {"geometry": {"type": "Point", "coordinates": [8.4036328999722, 49.005239699972]}, "id": "659926635283274"}, {"geometry": {"type": "Point", "coordinates": [8.4033545, 49.0052571]}, "id": "1737414879797158"}, {"geometry": {"type": "Point", "coordinates": [8.40363826, 49.00518893]}, "id": "154720426511359"}, {"geometry": {"type": "Point", "coordinates": [8.4033745999722, 49.005228]}, "id": "497973398085438"}, {"geometry": {"type": "Point", "coordinates": [8.4036278, 49.0052316]}, "id": "485481246446078"}, {"geometry": {"type": "Point", "coordinates": [8.4036249999722, 49.0052297]}, "id": "3465426947023587"}, {"geometry": {"type": "Point", "coordinates": [8.4034308, 49.005482399972]}, "id": "292662829160859"}, {"geometry": {"type": "Point", "coordinates": [8.4034338, 49.0052228]}, "id": "481079343007445"}, {"geometry": {"type": "Point", "coordinates": [8.4037867, 49.0053591]}, "id": "1120478648418440"}, {"geometry": {"type": "Point", "coordinates": [8.4035898, 49.005037899972]}, "id": "794657581722644"}, {"geometry": {"type": "Point", "coordinates": [8.4036565, 49.005402699972]}, "id": "625062825802154"}, {"geometry": {"type": "Point", "coordinates": [8.4034045232449, 49.005123462821]}, "id": "1101034090396029"}, {"geometry": {"type": "Point", "coordinates": [8.4033549999722, 49.0051537]}, "id": "806732906611476"}, {"geometry": {"type": "Point", "coordinates": [8.4036364999722, 49.0052468]}, "id": "1033299094706867"}, {"geometry": {"type": "Point", "coordinates": [8.4033520999722, 49.005102999972]}, "id": "1304617829996988"}, {"geometry": {"type": "Point", "coordinates": [8.4034259, 49.005354799972]}, "id": "608677627128173"}, {"geometry": {"type": "Point", "coordinates": [8.4037867, 49.0053591]}, "id": "1716943878492361"}, {"geometry": {"type": "Point", "coordinates": [8.4033521653465, 49.005107325149]}, "id": "137039781806570"}, {"geometry": {"type": "Point", "coordinates": [8.4036301, 49.005234299972]}, "id": "186739213807850"}, {"geometry": {"type": "Point", "coordinates": [8.4036433, 49.005293399972]}, "id": "1355943624813989"}, {"geometry": {"type": "Point", "coordinates": [8.4036319999722, 49.0052443]}, "id": "1100316947545128"}, {"geometry": {"type": "Point", "coordinates": [8.4034409568449, 49.00541518745]}, "id": "871077057423142"}, {"geometry": {"type": "Point", "coordinates": [8.4036319, 49.005237299972]}, "id": "3218402811734945"}, {"geometry": {"type": "Point", "coordinates": [8.403398777162, 49.005355846016]}, "id": "1570878643352398"}]}
+{
+    "data": [
+        {
+            "altitude": 163.722,
+            "atomic_scale": 0.98882014969246,
+            "camera_parameters": [
+                0.47263127784628,
+                -0.19230515059248,
+                0.030308053904923
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1660299965000,
+            "compass_angle": 0,
+            "computed_altitude": 2.7237255172804,
+            "computed_compass_angle": 4.6596600217494,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036226223843,
+                    49.005236449234
+                ]
+            },
+            "computed_rotation": [
+                1.7355410564035,
+                -0.098564994972389,
+                0.036132377454836
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036364999722,
+                    49.0052468
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An8PffFkA5GOkNhBuRCubGUREcnaNme995V9kTko15xJsgbTUdzvEcqfgiQrSSpFLlusz5ROWWvTpV1ioutwlE7KTGyLNQKtpwGy7_YUEUUdjHZWZ-Z5H42GlwaSpY1VU3xHSAKXRA_ge9_4pC4k9w?ccb=10-5&oh=00_AfC0mIUn4DMJ5nTwKqPmeaJr0lXplSPu_BK4AmYRxkd8gg&oe=656B4FBA&_nc_sid=201bca",
+            "merge_cc": 247896713,
+            "sequence": "Ceg3fM6oQIs8tqpxvDLOZG",
+            "width": 4000,
+            "id": "1033299094706867"
+        },
+        {
+            "altitude": 167.49785158738,
+            "atomic_scale": 0.97812698475509,
+            "camera_parameters": [
+                0.74326949511079,
+                0.0036390259261658,
+                -0.046676365129386
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1465988876102,
+            "compass_angle": 267.50292761767,
+            "computed_altitude": 3.2942094532773,
+            "computed_compass_angle": 291.02955270256,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4032678581704,
+                    49.005238764351
+                ]
+            },
+            "computed_rotation": [
+                -1.0292482133989,
+                1.4391665292017,
+                1.5171709792339
+            ],
+            "creator": {
+                "username": "dns_vlpt",
+                "id": "106249774946195"
+            },
+            "exif_orientation": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4034338,
+                    49.0052228
+                ]
+            },
+            "height": 1836,
+            "make": "samsung",
+            "model": "SM-A510F",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An-UIXND7_5VN2zjG9HV8GxkaGf8EP68lLnjcamJWw6Uxwh7U9I5TmIsfQ1K_mAj8O1oo-ofzPiIQruJ9-Vpx5NWePLgNDi4aETGGbYIPjcl3uK_05ZCuCix1yj9WokRt70B-TDCZDIZEtw2gevRVrk?ccb=10-5&oh=00_AfDSGusVpgh6R-gaMj8M0aut3jRoxXlR9sCvNH5UF7lNSQ&oe=656B4B4F&_nc_sid=201bca",
+            "merge_cc": 2.5479476601718e+18,
+            "sequence": "s94mi593sqrcp2pzdj1g2c",
+            "width": 3264,
+            "id": "1113605162480143"
+        },
+        {
+            "altitude": 178.742,
+            "atomic_scale": 0.98906768161803,
+            "camera_parameters": [
+                0.47263127784628,
+                -0.19230515059248,
+                0.030308053904923
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1660299913000,
+            "compass_angle": 0,
+            "computed_altitude": 2.6606506630778,
+            "computed_compass_angle": 5.2906400564292,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036187497056,
+                    49.005185050534
+                ]
+            },
+            "computed_rotation": [
+                1.707117654154,
+                -0.1079702010913,
+                0.043380691096148
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036088,
+                    49.0051696
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An-nsowucPm48fdvzp8H26z8Sph5lZpHzjQBaq3K9Rk0VxliXzyhZkmQuEa7Cp3ko5nu5lFVnz7YvbNzLQqRj7VGKSevfG0Q8cpmrSyOzF6sF369-Hv0Y39Qz7ZQjLkrEK9KE34ZxeKNv5568GFtxA?ccb=10-5&oh=00_AfBkj1cfDlescC-YnohCrlw6ETJiVo6vZrZ8zPjxgUAKdw&oe=656B5583&_nc_sid=201bca",
+            "merge_cc": 247896713,
+            "sequence": "Ceg3fM6oQIs8tqpxvDLOZG",
+            "width": 4000,
+            "id": "1496048534244529"
+        },
+        {
+            "altitude": 118.80413965508,
+            "atomic_scale": 0.99274573797547,
+            "camera_parameters": [
+                0.7979691031076,
+                0.028048029989351,
+                -0.023154333219295
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1671531687562,
+            "compass_angle": 0,
+            "computed_altitude": 3.0302597535774,
+            "computed_compass_angle": 178.32589419408,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4033527649303,
+                    49.00524604609
+                ]
+            },
+            "computed_rotation": [
+                0.022155802189975,
+                -1.994135455086,
+                2.3913468412201
+            ],
+            "creator": {
+                "username": "tasmaniadevil",
+                "id": "105128028394163"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.403398777162,
+                    49.005355846016
+                ]
+            },
+            "height": 3024,
+            "make": "Apple",
+            "model": "iPhone SE",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An8mh-Z-jaRRCVozGqwAPXrLuhwKXyIwnsUqSMSj8m_El8Giwq7EqlWLsziX8WwnOvkGToaxv91GaPBgwZuhiz4eYSYDl0nQeZCmrJyqjraXPZtwdissIf-iqqeA_nfGg1m88DsgBctlYYH6WXGuMg?ccb=10-5&oh=00_AfCy23zC8L6GVImR9k6eBgFBSIzY_ghO8ZuOB7cV7T93fw&oe=656B4593&_nc_sid=201bca",
+            "merge_cc": 1308359508,
+            "sequence": "amNih4WpsCd9lJDSquyGVc",
+            "width": 4032,
+            "id": "5666435330131342"
+        },
+        {
+            "altitude": 166.13180084439,
+            "atomic_scale": 0.97813603248373,
+            "camera_parameters": [
+                0.74326949511079,
+                0.0036390259261658,
+                -0.046676365129386
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1465988873081,
+            "compass_angle": 225.27645248723,
+            "computed_altitude": 3.4427601713687,
+            "computed_compass_angle": 245.75638433706,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4035769446369,
+                    49.005231599658
+                ]
+            },
+            "computed_rotation": [
+                -1.3680174668594,
+                0.8430049384562,
+                0.93910224788798
+            ],
+            "creator": {
+                "username": "dns_vlpt",
+                "id": "106249774946195"
+            },
+            "exif_orientation": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4037071,
+                    49.0053037
+                ]
+            },
+            "height": 1836,
+            "make": "samsung",
+            "model": "SM-A510F",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An_Ib8cVYfWNfY-u9AcAN-wMEa4SDHvSlPFm1dKzIOuzTMR_8Raz8FVboSqtw4H5tONRmpc4AXtZi5i0wZYjq993O9ytOi6-q0PCYYFPulBRsDVLC57dbyDhGLA4a9WTSwlfMvvly1nFJxRolCk-mA?ccb=10-5&oh=00_AfAoeTJNJp9sLlnqAw7hJAiuV3oaDZBSbZkqdwVI3ZLd5w&oe=656B40A2&_nc_sid=201bca",
+            "merge_cc": 2.5479476601718e+18,
+            "sequence": "s94mi593sqrcp2pzdj1g2c",
+            "width": 3264,
+            "id": "153752173289903"
+        },
+        {
+            "altitude": 179.468,
+            "atomic_scale": 0.98913340372976,
+            "camera_parameters": [
+                0.47263127784628,
+                -0.19230515059248,
+                0.030308053904923
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1660299912000,
+            "compass_angle": 0,
+            "computed_altitude": 2.6426851172,
+            "computed_compass_angle": 6.9999018183233,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036164941494,
+                    49.005163684425
+                ]
+            },
+            "computed_rotation": [
+                1.7025207448465,
+                -0.14499814627406,
+                0.055370381391892
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036048999722,
+                    49.005146799972
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An8axF0DlL1hAJtAuF1cgKHybhfe1JqpKfuQPz_MvR0arzp9Xz_qX3Suo3JmOo2L7HFCO511vwl0uvexll3FAbQjomiPLgatV_QoDKQFvOVnkLx4V523aHS1sVx73p-HCMw-COVQGzs6XCbJ-5tNMA?ccb=10-5&oh=00_AfBPh_qsaHwROfDtWP3GYau-BSqlaJcNNZ5cLQEYTfzx1g&oe=656B71D1&_nc_sid=201bca",
+            "merge_cc": 247896713,
+            "sequence": "Ceg3fM6oQIs8tqpxvDLOZG",
+            "width": 4000,
+            "id": "1278360879566021"
+        },
+        {
+            "altitude": 164.10000610352,
+            "atomic_scale": 1.3465037579191,
+            "camera_parameters": [
+                0.91083378473059,
+                0.043511262429488,
+                -0.088928380886443
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1443632005448,
+            "compass_angle": 59.959782140709,
+            "computed_altitude": 2.613237272948,
+            "computed_compass_angle": 54.856503182522,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4037684990986,
+                    49.005263054711
+                ]
+            },
+            "computed_rotation": [
+                -0.83626495456411,
+                -1.5681911667203,
+                -1.7121228356487
+            ],
+            "creator": {
+                "username": "live",
+                "id": "109628561267560"
+            },
+            "exif_orientation": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.40372846,
+                    49.00523605
+                ]
+            },
+            "height": 1200,
+            "make": "HTC",
+            "model": "HTC One",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An-8aE3KUuv9e99dggklqKKPZckijnlmN1ogioNtlG8TlJRjyC-FApwegx_lHWwFNXUlxao5It55oa5bvjsuA59HZPa8VlOoBJ_ga4C0sZPyJe70VkWsxLlRheKc9gbnJ32Aq2mPLtYSJ8LaUNT11xg?ccb=10-5&oh=00_AfDG4aW7lxkTNX5G3yEfkerMQhIFky4g16MzGAvmheHE7w&oe=656B47C6&_nc_sid=201bca",
+            "merge_cc": 2.4415438144936e+17,
+            "sequence": "3gsqwq5wq2hazvo0y2xc4t",
+            "width": 1600,
+            "id": "3734255660020029"
+        },
+        {
+            "altitude": 164.189,
+            "atomic_scale": 0.95643543451115,
+            "camera_parameters": [
+                0.51944813477308,
+                -0.17647679986571,
+                0.024554365081556
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1559323191000,
+            "compass_angle": 0,
+            "computed_altitude": 2.9783648354933,
+            "computed_compass_angle": 186.02432175293,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4033379902767,
+                    49.005168772181
+                ]
+            },
+            "computed_rotation": [
+                0.15276260993427,
+                2.3281610939847,
+                -2.025372119447
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4033622999722,
+                    49.005191899972
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An_pFIv6mXBsxG_C9J4et86PTexWZvpltge-bs-QWzqHuSdJpAry95wrLh1sCBb-5R6wK45KcVWcEyOv9t0ZOSmTu4kb_VfOK22tEc-UvP2kJhrd-zajyUCKo3sxZXZcj5JXmqy_KSH8XhbEFpPN3A?ccb=10-5&oh=00_AfBmb-563J7LbtniGJb6XDEDQBzyDwpc2FdTL4Hh47bVMQ&oe=656B6725&_nc_sid=201bca",
+            "merge_cc": 2.7284593838654e+18,
+            "sequence": "w46yAodpnPs888ui8cYBQQ",
+            "width": 4000,
+            "id": "469707470955540"
+        },
+        {
+            "altitude": 166.96884063312,
+            "atomic_scale": 0.97813528343754,
+            "camera_parameters": [
+                0.74326949511079,
+                0.0036390259261658,
+                -0.046676365129386
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1465988874090,
+            "compass_angle": 224.78268294296,
+            "computed_altitude": 3.4603296052665,
+            "computed_compass_angle": 261.69652210121,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4034713036995,
+                    49.005214749038
+                ]
+            },
+            "computed_rotation": [
+                -1.2681582837868,
+                1.0514696236325,
+                1.1509511392472
+            ],
+            "creator": {
+                "username": "dns_vlpt",
+                "id": "106249774946195"
+            },
+            "exif_orientation": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036331,
+                    49.0052513
+                ]
+            },
+            "height": 1836,
+            "make": "samsung",
+            "model": "SM-A510F",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An8AbOtIpBxEeMpSn-CUx64ybUP-YRQTYAqL48XOcB7MWb5rlJvxzQ7BsrXcExZR7WQymGnCYj6oqKpQnbUbv_PCUpsjlwFiddeGQDdFmE__M7mi7MPr4hkCIqznf_9eprEakXq9d_fKdbVSmXCrbsE?ccb=10-5&oh=00_AfB0qMPQEVqxjy_DWdUStKEe61_v-wElIPz7V3RpeA0ijQ&oe=656B44CC&_nc_sid=201bca",
+            "merge_cc": 2.5479476601718e+18,
+            "sequence": "s94mi593sqrcp2pzdj1g2c",
+            "width": 3264,
+            "id": "2843196045897764"
+        },
+        {
+            "altitude": 165.19,
+            "atomic_scale": 0.96174280743598,
+            "camera_parameters": [
+                0.51944813477308,
+                -0.17647679986571,
+                0.024554365081556
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1559323183000,
+            "compass_angle": 0,
+            "computed_altitude": 2.9271767698228,
+            "computed_compass_angle": 185.40927056048,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4034006635136,
+                    49.005435802426
+                ]
+            },
+            "computed_rotation": [
+                0.19216070012085,
+                2.3153863811943,
+                -2.0914880456133
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4034259999722,
+                    49.005453799972
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An-b-Cc6OH-Z08q03hVYWBYJgMchTCtEnBdqSuT-OkUArW3URYiDW0e6qCR3-vmG0opq_-N0V4ljGMYrC4rD0hV9r_he-o5E6MA_0zvBH1E4E0CxJQz2R9s_eVadGDehTp3YRlZ1MtZkr36bNi0okg?ccb=10-5&oh=00_AfABYeaGyExNmsIkJpOE0auLJ3CMtUZ5dxWu11GydK2lEA&oe=656B4A09&_nc_sid=201bca",
+            "merge_cc": 2.7284593838654e+18,
+            "sequence": "w46yAodpnPs888ui8cYBQQ",
+            "width": 4000,
+            "id": "991379488271533"
+        },
+        {
+            "altitude": 165.68,
+            "atomic_scale": 0.98885117866098,
+            "camera_parameters": [
+                0.47263127784628,
+                -0.19230515059248,
+                0.030308053904923
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1660299945000,
+            "compass_angle": 0,
+            "computed_altitude": 2.7134470036253,
+            "computed_compass_angle": 4.2146170065235,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036223352124,
+                    49.005236341811
+                ]
+            },
+            "computed_rotation": [
+                1.7517443572638,
+                -0.073229044909589,
+                0.046380473244584
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036278,
+                    49.0052486
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An9uHgPeK2AdOHHDGTATjlcH6Lino024WEjF4hIUNdjxxOX_NbbMDcCsTF5v4c7YgMBPGYv2htiTwOhTZ0DidtO1weG403wtUhu9RsyMerhkh90bNI0xM_McHngCGHk6Oju_-SiLSoacMJW1x0kuGLc?ccb=10-5&oh=00_AfAHoZZ4rPWfaqIHXEd-7wIQe1GQDGzMatNwg-HAZBPblQ&oe=656B6F18&_nc_sid=201bca",
+            "merge_cc": 247896713,
+            "sequence": "Ceg3fM6oQIs8tqpxvDLOZG",
+            "width": 4000,
+            "id": "1210637813054834"
+        },
+        {
+            "altitude": 164.673,
+            "atomic_scale": 0.95772946005339,
+            "camera_parameters": [
+                0.51944813477308,
+                -0.17647679986571,
+                0.024554365081556
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1559323188000,
+            "compass_angle": 0,
+            "computed_altitude": 3.2384089017287,
+            "computed_compass_angle": 190.10062089931,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4033700260139,
+                    49.005276495935
+                ]
+            },
+            "computed_rotation": [
+                0.32260044938408,
+                2.3028357168112,
+                -2.0389634774522
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4034004,
+                    49.0052949
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An9PltgIXNOFlmXw3pYnYnVOsjp69Mznq2c7cR4INeD6782GsT9qvn8LV5JelSWl-kmkE123tuiKrUVkz5lbsqz_qaFPpOfZmmU2CgLyhwwipqothfqoBvgmOF3_EPz3wfzLqNM743Q4nLhk_HN9cA?ccb=10-5&oh=00_AfDgYqMpaf5KsvJbUI1p-wWNebV3hPr6AFiOx3QF3NQjYA&oe=656B6F38&_nc_sid=201bca",
+            "merge_cc": 2.7284593838654e+18,
+            "sequence": "w46yAodpnPs888ui8cYBQQ",
+            "width": 4000,
+            "id": "3090638994503697"
+        },
+        {
+            "altitude": 165.062,
+            "atomic_scale": 0.96025443480885,
+            "camera_parameters": [
+                0.51944813477308,
+                -0.17647679986571,
+                0.024554365081556
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1559323185000,
+            "compass_angle": 0,
+            "computed_altitude": 2.8767179967836,
+            "computed_compass_angle": 184.5469457746,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4033902682274,
+                    49.005373349535
+                ]
+            },
+            "computed_rotation": [
+                0.17083281540713,
+                2.3436868435598,
+                -2.0719074773195
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4034159999722,
+                    49.005394099972
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An8NZYaVlTyBKZNcOfCF2jWm8a74ZOO3BtzBIBkXLPthC3oeFM2uhx_nmxxTINuLZY4_P-OhYu4q3UPW91cQZZv4-M4pVOLx0QHyhXMdV1GvdoljsEeK6-zw3-13yME0jwnj1wn1uBO-ix-oHJXeUl8?ccb=10-5&oh=00_AfAEWumB3tvNbMjS3Qu9NtyakXYyyD8z1QoQkacdeAij_Q&oe=656B3F79&_nc_sid=201bca",
+            "merge_cc": 2.7284593838654e+18,
+            "sequence": "w46yAodpnPs888ui8cYBQQ",
+            "width": 4000,
+            "id": "465193167914954"
+        },
+        {
+            "altitude": 179.79,
+            "atomic_scale": 0.98921578297607,
+            "camera_parameters": [
+                0.47263127784628,
+                -0.19230515059248,
+                0.030308053904923
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1660299911000,
+            "compass_angle": 0,
+            "computed_altitude": 2.6074561178684,
+            "computed_compass_angle": 6.5172826203994,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036124035308,
+                    49.005135784218
+                ]
+            },
+            "computed_rotation": [
+                1.7098900932731,
+                -0.16690467552816,
+                0.024372358423191
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4035998,
+                    49.005117499972
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An_wQoMGSGS-yXigUZw2wU5BgBfJRz3jBavihOOj_9i5lZGNKmSogrzpGDKoMGl-JQAgVTcTM-gZUMQTmp_HqNaUrUMjUrICIZtw-sVKrGKYj-Oo3zrE3-VoBQ_i3PgYQH5fcZ6_YPBTKC2qVMneeg?ccb=10-5&oh=00_AfB2g6h2TrG891kBF6khlvxjmuBzHFGUUhoqVyHJT4jNVg&oe=656B4788&_nc_sid=201bca",
+            "merge_cc": 247896713,
+            "sequence": "Ceg3fM6oQIs8tqpxvDLOZG",
+            "width": 4000,
+            "id": "435087445259377"
+        },
+        {
+            "altitude": 164.614,
+            "atomic_scale": 0.98882011737606,
+            "camera_parameters": [
+                0.47263127784628,
+                -0.19230515059248,
+                0.030308053904923
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1660299954000,
+            "compass_angle": 0,
+            "computed_altitude": 2.7173738386482,
+            "computed_compass_angle": 4.0694932573967,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.40362239725,
+                    49.005236337863
+                ]
+            },
+            "computed_rotation": [
+                1.7527175320346,
+                -0.063534711154274,
+                0.050764747901036
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036294999722,
+                    49.0052456
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An-SfPw6zgVFsP0G1gnxCy0o25taz4OJlKeXG5zRYHyCPGu6Hz3QwrF4QKFlkm-lSYJCMXtS9BVe01XQmZ-JIho0SUUzkbGu_pmMHPUUxXbOPT6YJyBQpZQylAQtYDbpxKzK_7Uwg0luK1dQ4g5ZpuE?ccb=10-5&oh=00_AfDgHkbqokC3UrPKK-3KoQdMlW_qtWKn460yEfqFFvXzxw&oe=656B6C5A&_nc_sid=201bca",
+            "merge_cc": 247896713,
+            "sequence": "Ceg3fM6oQIs8tqpxvDLOZG",
+            "width": 4000,
+            "id": "1228717777950384"
+        },
+        {
+            "altitude": 167.49785158738,
+            "atomic_scale": 0.97812958529902,
+            "camera_parameters": [
+                0.74326949511079,
+                0.0036390259261658,
+                -0.046676365129386
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1465988875880,
+            "compass_angle": 267.50292761767,
+            "computed_altitude": 3.3073419658467,
+            "computed_compass_angle": 288.10391001411,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4032868028411,
+                    49.005233524616
+                ]
+            },
+            "computed_rotation": [
+                -1.057496263232,
+                1.4013152102017,
+                1.4816222636703
+            ],
+            "creator": {
+                "username": "dns_vlpt",
+                "id": "106249774946195"
+            },
+            "exif_orientation": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4034338,
+                    49.0052228
+                ]
+            },
+            "height": 1836,
+            "make": "samsung",
+            "model": "SM-A510F",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An8RC5cwXXSxJcu1dnuFwxYVaO9sa6N34TbZbT4gor8fSW454zQr41Nljryae2mBwXWqW87yYQ7d1oy70Sf8dQglMBoTdBnoT7XHEX9fC6iL_7OBFrpTJfujStYgtGBKuQtFr10iSl8pWvF8pyxJ0Q?ccb=10-5&oh=00_AfCuJb2Vt2GXc5DoHb4YONK-y-FiYMp9hO8z9jt0XdeT4g&oe=656B63AD&_nc_sid=201bca",
+            "merge_cc": 2.5479476601718e+18,
+            "sequence": "s94mi593sqrcp2pzdj1g2c",
+            "width": 3264,
+            "id": "481079343007445"
+        },
+        {
+            "altitude": 163.929,
+            "atomic_scale": 0.98882013139867,
+            "camera_parameters": [
+                0.47263127784628,
+                -0.19230515059248,
+                0.030308053904923
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1660299962000,
+            "compass_angle": 0,
+            "computed_altitude": 2.7204333422706,
+            "computed_compass_angle": 4.8244361299369,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036224591673,
+                    49.005236368224
+                ]
+            },
+            "computed_rotation": [
+                1.7489662266724,
+                -0.084994628296493,
+                0.052072145815616
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036331,
+                    49.0052475
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An9CYyihYYHl6P708leEEVBG5jrPbEPDn_JLTJHumt7LOnoR34H8vkQHCLxWj-CWafrYpQ94iri5Lz_a5YgnX8Ay44BXrx0uqV8_naE0itxDTPy10HP1enW0_a7jIsL79P3OwrWlRCkWouMlW-vxWw?ccb=10-5&oh=00_AfC2kL3HccCKzsu4dUgOFyRVj0Y3oXSxWw55DAtvSa5tzQ&oe=656B3ED2&_nc_sid=201bca",
+            "merge_cc": 247896713,
+            "sequence": "Ceg3fM6oQIs8tqpxvDLOZG",
+            "width": 4000,
+            "id": "407501854860342"
+        },
+        {
+            "altitude": 166.357,
+            "atomic_scale": 1.4776208148281,
+            "camera_parameters": [
+                0.44186472717085,
+                0.061720721671367,
+                0.0062072228327011
+            ],
+            "camera_type": "fisheye",
+            "captured_at": 1639652557000,
+            "compass_angle": 184.90381287549,
+            "computed_altitude": 1.7745254253969,
+            "computed_compass_angle": 187.03197415611,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4033049250002,
+                    49.005273859805
+                ]
+            },
+            "computed_rotation": [
+                0.00053118531228044,
+                2.1016309352493,
+                -2.0960057722897
+            ],
+            "creator": {
+                "username": "nakaner",
+                "id": "102187028688979"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4033712999722,
+                    49.0052498
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO7 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An-6HFlZY1-rFlqPKHkWwPK0yrvkAMQexR6VmsVaowUoDy9UnGslPiprDlBfHQyUJ2dbMVKEWxNqRrWusQgk38cYbV1HSPB_7ZC4HP3UCAs6jOpPtq3wizo5-JwIpnIeWseEZhiMovHEKnbZDlk14g?ccb=10-5&oh=00_AfB-Dm3-8a7-BQ_nuBAwboMSBZPrp1tuh4jAavf96W5DPQ&oe=656B527A&_nc_sid=201bca",
+            "merge_cc": 1308359508,
+            "sequence": "iVTMW39aIjbF7x6qDJ5cBX",
+            "width": 4000,
+            "id": "201617705509292"
+        },
+        {
+            "altitude": 180.456,
+            "atomic_scale": 0.9895222444052,
+            "camera_parameters": [
+                0.47263127784628,
+                -0.19230515059248,
+                0.030308053904923
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1660299908000,
+            "compass_angle": 0,
+            "computed_altitude": 2.4481004970148,
+            "computed_compass_angle": 9.4244624005995,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4035987183828,
+                    49.00501573461
+                ]
+            },
+            "computed_rotation": [
+                1.6915667466062,
+                -0.18852977674821,
+                0.079832097085163
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4035829999722,
+                    49.004994299972
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An_JYuGZ3hhdY8qOcS0Zfchj-MF3R9JF3Yc6na1aTnoy81meMwQzxOh8Xsf3Ip9wjgXTuvhxwfknwWMc-e1gwPI-dz3Q8lbSg46KFE3TVes_jei2LbeXAidvKNVxAjawWFJW7crq0DJTuhsfGSbCNQ?ccb=10-5&oh=00_AfB8ic56UGCOIV7YuCZbsADXrFuzG-jfbLWmUK58gz7usQ&oe=656B4EEA&_nc_sid=201bca",
+            "merge_cc": 247896713,
+            "sequence": "Ceg3fM6oQIs8tqpxvDLOZG",
+            "width": 4000,
+            "id": "106459765542949"
+        },
+        {
+            "altitude": 175.992,
+            "atomic_scale": 0.98891882281302,
+            "camera_parameters": [
+                0.47263127784628,
+                -0.19230515059248,
+                0.030308053904923
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1660299916000,
+            "compass_angle": 0,
+            "computed_altitude": 2.7180349603295,
+            "computed_compass_angle": 359.60592092968,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036224480285,
+                    49.005229782749
+                ]
+            },
+            "computed_rotation": [
+                1.734743080398,
+                0.0084477115979671,
+                -0.0029548601483989
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036217,
+                    49.0052218
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An-ZOxLcG6yp1HORSx9YLjqumKXHkVT5zImKSlPWFiF65OCWm5iOXasrvIq2baDSyoln7WMQLRyzCmSr68Obeb8165jknT6esNfpEV8T_1I3mchUU5gMH5tRTUUqTthsxYinvgD8eIoHaxSNCj6bHA?ccb=10-5&oh=00_AfBEPoW2S__ZZ4oAI6RygOUno0CPSykyoS0vByVA82PCMg&oe=656B5751&_nc_sid=201bca",
+            "merge_cc": 247896713,
+            "sequence": "Ceg3fM6oQIs8tqpxvDLOZG",
+            "width": 4000,
+            "id": "373979478277468"
+        },
+        {
+            "altitude": 163.751,
+            "atomic_scale": 0.98872500045422,
+            "camera_parameters": [
+                0.47263127784628,
+                -0.19230515059248,
+                0.030308053904923
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1660299967000,
+            "compass_angle": 0,
+            "computed_altitude": 2.7584196208045,
+            "computed_compass_angle": 358.19823365118,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036240518601,
+                    49.005263468127
+                ]
+            },
+            "computed_rotation": [
+                1.7428835228677,
+                -0.006288840598104,
+                -0.051397399986358
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036399999722,
+                    49.0052693
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An-nU0iw8ql_vhc67mZ_sz_Mh0YjjOfgRHMFZ1zPYgn0CO5YhDatd42MhtKOcccrMWcuI9vYeHxmw6_FxfURfjX1FedYY0q-9JNDCmPYz1pcltiFNgZxQ3bRnCynD94IYQLcyZl0J0aYtheVxUeMJg?ccb=10-5&oh=00_AfCbCLz57J--bjnzFjLBvC6FoRruwUiDmRmSx9NpesQI8g&oe=656B5E5D&_nc_sid=201bca",
+            "merge_cc": 247896713,
+            "sequence": "Ceg3fM6oQIs8tqpxvDLOZG",
+            "width": 4000,
+            "id": "790040205665391"
+        },
+        {
+            "altitude": 165.29,
+            "atomic_scale": 0.96218805846943,
+            "camera_parameters": [
+                0.51944813477308,
+                -0.17647679986571,
+                0.024554365081556
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1559323182000,
+            "compass_angle": 0,
+            "computed_altitude": 2.873870562762,
+            "computed_compass_angle": 190.29992129616,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.403405537819,
+                    49.005466263083
+                ]
+            },
+            "computed_rotation": [
+                0.35202390591871,
+                2.2862600794446,
+                -2.0721089368295
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4034308,
+                    49.005482399972
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An_UCTP78zqPtc7WZFTpHhn5pzI1E4-6Bd8gX_sBrFUQVr3EE0-cR-dh3hTuMxrPYAYK77m23aa3L8gfMESXi1GYnvU9_Q9G1BWI_y0AaDP2J9g2XoO-8yy9XloTsjTDRU1a6JUlQG727O8Sd7t7qi0?ccb=10-5&oh=00_AfCuw6xk7x6OQm5XF38srV2Hpa4KqNbwBiByhVA56FjnDw&oe=656B3E58&_nc_sid=201bca",
+            "merge_cc": 2.7284593838654e+18,
+            "sequence": "w46yAodpnPs888ui8cYBQQ",
+            "width": 4000,
+            "id": "292662829160859"
+        },
+        {
+            "altitude": 139.03087179487,
+            "atomic_scale": 1.0033057376722,
+            "camera_parameters": [
+                0.84231967569871,
+                0.020747488704968,
+                0.0078379148921463
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1555428538230,
+            "compass_angle": 198.79968261719,
+            "computed_altitude": 3.9918507132679,
+            "computed_compass_angle": 181.09470762789,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4033532738112,
+                    49.005082190209
+                ]
+            },
+            "computed_rotation": [
+                -0.063488556543935,
+                2.1120080904973,
+                -2.2274963175063
+            ],
+            "creator": {
+                "username": "karthoo",
+                "id": "106737178230266"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4033844864615,
+                    49.005214696308
+                ]
+            },
+            "height": 2448,
+            "make": "LG Electronics",
+            "model": "LG-H500f",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An8_lVQpllz-zRkESLpxfT0WLoEl75weT4toSsY3fBWhq892D3uNO2wZxT7tx7biKVHCCrYRIVzDfFWI_WjaKXPuoBObLYBrJs3__3YstooAUKlzyRdyf-66jUuPqux4SIhKOGdl_G5ZvU4uthewRA?ccb=10-5&oh=00_AfAwhxMXx5T0pWP_J_GTIUvFdt9Fcq0IWO-K73wmlRZXgA&oe=656B6EE2&_nc_sid=201bca",
+            "merge_cc": 2.5479476601718e+18,
+            "sequence": "X5CeVGGpRC28Wsvv3OBSoQ",
+            "width": 3264,
+            "id": "605590260399669"
+        },
+        {
+            "altitude": 164.412,
+            "atomic_scale": 0.95677533838463,
+            "camera_parameters": [
+                0.51944813477308,
+                -0.17647679986571,
+                0.024554365081556
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1559323190000,
+            "compass_angle": 0,
+            "computed_altitude": 3.067302249372,
+            "computed_compass_angle": 193.66867797608,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4033474611973,
+                    49.005207430899
+                ]
+            },
+            "computed_rotation": [
+                0.37269653678378,
+                2.2814466653873,
+                -1.9771219496774
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4033745999722,
+                    49.005228
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An_FH9WAjbHMEzZ04sgb1TsBzbS4p8twyxBzYLyb3LN_Q-X-hn0lsRmWA8TC3rMiJCK3UUZZSYCQS96RNSR4_mfMNJopVZ1VVIbcWKTMmbzvGK1a28hIrC__MjmOk-NvAHRPggLQfQAFgNGCzbdfmQ?ccb=10-5&oh=00_AfBFl0q3a1siz3387W5JLt8q5keT92_c74LCRB_PK84dQw&oe=656B5A00&_nc_sid=201bca",
+            "merge_cc": 2.7284593838654e+18,
+            "sequence": "w46yAodpnPs888ui8cYBQQ",
+            "width": 4000,
+            "id": "497973398085438"
+        },
+        {
+            "altitude": 168.679,
+            "atomic_scale": 0.98885118352234,
+            "camera_parameters": [
+                0.47263127784628,
+                -0.19230515059248,
+                0.030308053904923
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1660299935000,
+            "compass_angle": 0,
+            "computed_altitude": 2.7125967852771,
+            "computed_compass_angle": 3.3123757293207,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036222779727,
+                    49.005236349449
+                ]
+            },
+            "computed_rotation": [
+                1.755469466576,
+                -0.053746505435098,
+                0.039649429289883
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036304,
+                    49.005246599972
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An_vo4oN45xSECWgRHzxrirZwq61bGyFRhbQHbRznnv6V3i4RBQ5ZyVGy7NS27rgYQ1QBLurdGelq6GVd35ND0vpoEfAaJPkRH0GpaTKZWGpSaIECtVLNDYeXM_YY4iod2PjZwvg1aJvwe75_5Oaeg?ccb=10-5&oh=00_AfAdX9zYKD6_W_CLQUdA3JnDDFqhlhSRLg6ed863ysTUFQ&oe=656B4E19&_nc_sid=201bca",
+            "merge_cc": 247896713,
+            "sequence": "Ceg3fM6oQIs8tqpxvDLOZG",
+            "width": 4000,
+            "id": "157863876849130"
+        },
+        {
+            "altitude": 167.805,
+            "atomic_scale": 0.98885118544886,
+            "camera_parameters": [
+                0.47263127784628,
+                -0.19230515059248,
+                0.030308053904923
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1660299938000,
+            "compass_angle": 0,
+            "computed_altitude": 2.7120458167046,
+            "computed_compass_angle": 3.9678709279077,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036222617596,
+                    49.005236363128
+                ]
+            },
+            "computed_rotation": [
+                1.753062126806,
+                -0.062737417577834,
+                0.04884283094199
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036291999722,
+                    49.0052487
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An_dljzoiLGK0HnHBwQZTHqv1hcxdlJqkWg0LAzC4MX8vSrD0Wi9_ZBhRGg_8Q0imItPe086Id5nVjDLSMz-Dau7W5UfNtGE9vV7cLr9buxl3dJkDdn78t2Mgrbq19EXbvqRQHUDbvuRtm3_soXWWA?ccb=10-5&oh=00_AfDJEYM5OJXUtv3B_VGnd8dMhtCjhCxO6jOmluDP7koEsA&oe=656B4BF1&_nc_sid=201bca",
+            "merge_cc": 247896713,
+            "sequence": "Ceg3fM6oQIs8tqpxvDLOZG",
+            "width": 4000,
+            "id": "477041534420459"
+        },
+        {
+            "altitude": 170.624,
+            "atomic_scale": 0.98885121005348,
+            "camera_parameters": [
+                0.47263127784628,
+                -0.19230515059248,
+                0.030308053904923
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1660299926000,
+            "compass_angle": 0,
+            "computed_altitude": 2.7186007555574,
+            "computed_compass_angle": 4.8700320258838,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036223865535,
+                    49.005236279719
+                ]
+            },
+            "computed_rotation": [
+                1.7074280654535,
+                -0.07893422854968,
+                0.057725098996632
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036320999722,
+                    49.0052456
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An-wEJpgTAv3WgRbBdRSxCZPEhgYYP4IUvFNdYhWmXj4-4YGoOXpHK3LLSF8XTepMtELQ3oHNFJGsvTOxza25rzLpPup49VlP3r8xCopbCC8zNn_s5gPh7_7EjK6lhMtnsMzLB9XsCiIZbrVOzvfKg?ccb=10-5&oh=00_AfA6-O9i6567lsIfsD_yXzS5HSjOJhTR4CTZ_DRjSQerTg&oe=656B4B4D&_nc_sid=201bca",
+            "merge_cc": 247896713,
+            "sequence": "Ceg3fM6oQIs8tqpxvDLOZG",
+            "width": 4000,
+            "id": "180593921134413"
+        },
+        {
+            "altitude": 163.744,
+            "atomic_scale": 0.98866724688709,
+            "camera_parameters": [
+                0.47263127784628,
+                -0.19230515059248,
+                0.030308053904923
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1660299968000,
+            "compass_angle": 0,
+            "computed_altitude": 2.8081038789824,
+            "computed_compass_angle": 9.9489299942326,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036266807526,
+                    49.005289556379
+                ]
+            },
+            "computed_rotation": [
+                1.7099130856106,
+                -0.24379075621537,
+                0.047271650157049
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036433,
+                    49.005293399972
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An9BsrDBWc9IR6-yqM1r3tl3Syc1u5ogT6zGeQreIQmyi47EyulFk0JziYbL74wEQ6UuISBRJpOOapHUahK7sonUWdtyDjIs6FFkaf2bhOSRPFG_UgxSRUlSfH2FXv01OBQbKL8KdIc3jbZUj2f42-A?ccb=10-5&oh=00_AfDh53ExF-BtjD13oje0nN0Aimi18B0MyKmMkoaMP0EjZQ&oe=656B56ED&_nc_sid=201bca",
+            "merge_cc": 247896713,
+            "sequence": "Ceg3fM6oQIs8tqpxvDLOZG",
+            "width": 4000,
+            "id": "1355943624813989"
+        },
+        {
+            "altitude": 164.93,
+            "atomic_scale": 0.95914590269642,
+            "camera_parameters": [
+                0.51944813477308,
+                -0.17647679986571,
+                0.024554365081556
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1559323186000,
+            "compass_angle": 0,
+            "computed_altitude": 2.8931459523737,
+            "computed_compass_angle": 181.74369134105,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4033878851175,
+                    49.005341104618
+                ]
+            },
+            "computed_rotation": [
+                -0.15292400518234,
+                -2.3088015367444,
+                2.0542501519815
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4034144,
+                    49.0053629
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An9qVjvs7-271uusD11bXdtLXlEH682SwK02dSjZRB6dySNa_pPAOw9JAEDBxl0zG4dlgXp1uozE4J8zrUOt0i1hwBbSW3e1oO6t4S6B_66gxqz0z6QppYLa_hALWjXhv5KsAmgMzdDwFzxqxFoouQ?ccb=10-5&oh=00_AfDiTFh3ORSnN7v-lhvpwgwsAHDaFZdP82CYuVMW48orGQ&oe=656B5DA0&_nc_sid=201bca",
+            "merge_cc": 2.7284593838654e+18,
+            "sequence": "w46yAodpnPs888ui8cYBQQ",
+            "width": 4000,
+            "id": "765348437677831"
+        },
+        {
+            "altitude": 167.43319439994,
+            "atomic_scale": 0.97813407786526,
+            "camera_parameters": [
+                0.74326949511079,
+                0.0036390259261658,
+                -0.046676365129386
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1465988874587,
+            "compass_angle": 252.30243029067,
+            "computed_altitude": 3.4499106369913,
+            "computed_compass_angle": 268.89891433712,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4034184172112,
+                    49.005214394118
+                ]
+            },
+            "computed_rotation": [
+                -1.2170535186132,
+                1.1449893530828,
+                1.2454253596538
+            ],
+            "creator": {
+                "username": "dns_vlpt",
+                "id": "106249774946195"
+            },
+            "exif_orientation": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4035333,
+                    49.0052279
+                ]
+            },
+            "height": 1836,
+            "make": "samsung",
+            "model": "SM-A510F",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An-gYq-bD8BW6al3oBjfndBA2gBIn2RKFNxvPrKCt_uZy946I_TlEAwRrZCvpwSKCCjAVVVbwrizujqWTEcm8gld8FkAbrKKDIkPUqm3VcJi5nIXa7IQ4yUGgMJe0dlMaR1kdR9HMXz8iMpEDNULJg?ccb=10-5&oh=00_AfB9MVVW8R72SFu8r-C0pmjeqsbwrsTZjsTANcBupyiCUQ&oe=656B4159&_nc_sid=201bca",
+            "merge_cc": 2.5479476601718e+18,
+            "sequence": "s94mi593sqrcp2pzdj1g2c",
+            "width": 3264,
+            "id": "309638074004852"
+        },
+        {
+            "altitude": 174.678,
+            "atomic_scale": 0.98885109445091,
+            "camera_parameters": [
+                0.47263127784628,
+                -0.19230515059248,
+                0.030308053904923
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1660299918000,
+            "compass_angle": 0,
+            "computed_altitude": 2.715275737457,
+            "computed_compass_angle": 6.4223872130838,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036219963291,
+                    49.005236050814
+                ]
+            },
+            "computed_rotation": [
+                1.7045460739502,
+                -0.088274852810958,
+                0.089887406064471
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036249999722,
+                    49.0052297
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An8csf-TTiawFtacOJXljl4bYlE585EpEFpmThbCs9X2nHKdS91R0RzCoI1JBNqOvEnIWRhUspc8_PTtwILei1Q11knXgHfBWOpmHv46pawKMJBLgXCqUdQIJ-33GXgPMhG96monynlgjhPq8amOUQ?ccb=10-5&oh=00_AfCOXzFavWo_RkiXbi29YL5fL6__HfwO4zPgWbD066zPbw&oe=656B5617&_nc_sid=201bca",
+            "merge_cc": 247896713,
+            "sequence": "Ceg3fM6oQIs8tqpxvDLOZG",
+            "width": 4000,
+            "id": "3465426947023587"
+        },
+        {
+            "altitude": 164.207,
+            "atomic_scale": 0.98882012782373,
+            "camera_parameters": [
+                0.47263127784628,
+                -0.19230515059248,
+                0.030308053904923
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1660299959000,
+            "compass_angle": 0,
+            "computed_altitude": 2.7205289201811,
+            "computed_compass_angle": 4.8442240980399,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036224187791,
+                    49.005236345715
+                ]
+            },
+            "computed_rotation": [
+                1.7488735519744,
+                -0.086316195214224,
+                0.051472163100089
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036314999722,
+                    49.005247099972
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An83c8ny70SCJonPl0FAJpJYzZlTyypVVN3GKtzBlQV2tq7IhumQZbqmSA_QJqOR7jqAdmlgfXrwZyd3eEv-ie6CeMUX5GpXy24EqWVd6JEkfpXK8jK4Gh-vM4pnOFpgpmEoo8MNTo8I3N0z03GNXg?ccb=10-5&oh=00_AfDsyx7juQOXl3zQ81Uzms_GpuPTvDPOOEOOlxYbTT3uGA&oe=656B5C8E&_nc_sid=201bca",
+            "merge_cc": 247896713,
+            "sequence": "Ceg3fM6oQIs8tqpxvDLOZG",
+            "width": 4000,
+            "id": "1727300370937421"
+        },
+        {
+            "altitude": 186.30000305176,
+            "atomic_scale": 1,
+            "camera_parameters": [
+                0.85,
+                0,
+                0
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1430659413092,
+            "compass_angle": 93.418447820368,
+            "computed_altitude": 4.2893042629585,
+            "computed_compass_angle": 69.169119279788,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.403789302212,
+                    49.005169441091
+                ]
+            },
+            "computed_rotation": [
+                1.4868130646059,
+                -0.93081809607403,
+                0.96947810211462
+            ],
+            "creator": {
+                "username": "changchun1",
+                "id": "100562292188203"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.40383218,
+                    49.00509393
+                ]
+            },
+            "height": 1536,
+            "make": "HTC",
+            "model": "HTC Desire V",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An_8yL_YfHXcKMVCQWpV4L0ylPwaBWQ0wAuyaH8P12BaRwSzqdZ1EPxF4QtB8UdWf5JRC4k3CeHd55elvrmZfZT-HkGLe1xS1Q-7o-0gMRVJguuhxiGCFGNFqEUpyJenYKtYaA026qvxxqoz0KFn8L0?ccb=10-5&oh=00_AfAF9lahHH8nqVWPJgwScgSmErVJWzNw5iCdr4CjoqnMrw&oe=656B4811&_nc_sid=201bca",
+            "merge_cc": 2.5459412220397e+18,
+            "sequence": "cGyjA__g9FMsjs9ymPhonQ",
+            "width": 2048,
+            "id": "2913820868882132"
+        },
+        {
+            "altitude": 164.701,
+            "atomic_scale": 0.98836102169321,
+            "camera_parameters": [
+                0.47263127784628,
+                -0.19230515059248,
+                0.030308053904923
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1660299973000,
+            "compass_angle": 0,
+            "computed_altitude": 3.1590903280303,
+            "computed_compass_angle": 2.9581097724538,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036415167048,
+                    49.005487895468
+                ]
+            },
+            "computed_rotation": [
+                1.7553240207344,
+                -0.090986247150758,
+                -0.00023207609921605
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036597999722,
+                    49.005489099972
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An-SmNDWgTnVRXzQdLvgvHOCLM1M0dWAYy_7RXkQQLXz-yTKrFVqDPo5pj829l5AUJBXgge-CFFW_aUYvmEv2Q97irb2zlOwGbmKqaWFZuYRvhXIPR6pwX26axHHCTkYbPRE40MzcaLZ7BeF-yPI7w?ccb=10-5&oh=00_AfAlVCljH-YRPlMfYPQd61XyTYSUGpW_Q1VNMnUu1mZdLw&oe=656B4782&_nc_sid=201bca",
+            "merge_cc": 247896713,
+            "sequence": "Ceg3fM6oQIs8tqpxvDLOZG",
+            "width": 4000,
+            "id": "803504307730499"
+        },
+        {
+            "altitude": 164.30000305176,
+            "atomic_scale": 1.3465032432394,
+            "camera_parameters": [
+                0.91083378473059,
+                0.043511262429488,
+                -0.088928380886443
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1443632009363,
+            "compass_angle": 49.122235109993,
+            "computed_altitude": 2.5607605669647,
+            "computed_compass_angle": 45.734078132251,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4038054689066,
+                    49.005285054473
+                ]
+            },
+            "computed_rotation": [
+                -0.72576593066117,
+                -1.6681186895981,
+                -1.8267497911401
+            ],
+            "creator": {
+                "username": "live",
+                "id": "109628561267560"
+            },
+            "exif_orientation": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.40387849,
+                    49.00529958
+                ]
+            },
+            "height": 1200,
+            "make": "HTC",
+            "model": "HTC One",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An8jDlcS08Pkyl1ewSlLRl9XfZMCplawPTw3KpxWBBA3ku1pzHpjjcxBlxWtSYJSVSS2bSZWkIDfGihagOAgJlKRu_NPHQORsglKRzzWjd0S-qj22imaJdGi4WQIkoZ8_DL49YedMsY49R5EGvlN_w?ccb=10-5&oh=00_AfAU_GVxd1ftk7zkR_QTvYZmQmEwSCu2KTRBhj-UJrV43Q&oe=656B612C&_nc_sid=201bca",
+            "merge_cc": 2.4415438144936e+17,
+            "sequence": "3gsqwq5wq2hazvo0y2xc4t",
+            "width": 1600,
+            "id": "2851465125121570"
+        },
+        {
+            "altitude": 145.71557128413,
+            "atomic_scale": 1.0032758905518,
+            "camera_parameters": [
+                0.84231967569871,
+                0.020747488704968,
+                0.0078379148921463
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1555428530140,
+            "compass_angle": 180,
+            "computed_altitude": 6.3514790544286,
+            "computed_compass_angle": 180.80341304826,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4034233584036,
+                    49.005404874471
+                ]
+            },
+            "computed_rotation": [
+                0.027488009535574,
+                2.2137872200318,
+                -2.2256888808464
+            ],
+            "creator": {
+                "username": "karthoo",
+                "id": "106737178230266"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4034317,
+                    49.005418833064
+                ]
+            },
+            "height": 2448,
+            "make": "LG Electronics",
+            "model": "LG-H500f",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An-DzjPZdHqumM1TJr7CqgAnrN-DNdwT3wyK22wfDSK4uiaH3ukRfzAhUxlyDiyB4OTvQX7mvgooybwLg3Psc3XrDND8KoyhCvc2KDzPiPyAAQay2ZuK5lvsoeUHoyEqLmHnZQpWS_galTabnXWDYAI?ccb=10-5&oh=00_AfAy3eKj77603ePWDaPxcunYmwHB8Xn3i21Gwu0rWT4pWQ&oe=656B5ABD&_nc_sid=201bca",
+            "merge_cc": 2.5479476601718e+18,
+            "sequence": "X5CeVGGpRC28Wsvv3OBSoQ",
+            "width": 3264,
+            "id": "424503975570230"
+        },
+        {
+            "altitude": 180.221,
+            "atomic_scale": 0.98944365446235,
+            "camera_parameters": [
+                0.47263127784628,
+                -0.19230515059248,
+                0.030308053904923
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1660299909000,
+            "compass_angle": 0,
+            "computed_altitude": 2.5006310092285,
+            "computed_compass_angle": 7.3790834590174,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036028233073,
+                    49.005058141814
+                ]
+            },
+            "computed_rotation": [
+                1.6977965629024,
+                -0.16614528634257,
+                0.046541616109028
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4035898,
+                    49.005037899972
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An-HlEJsIk-hrEnUeAQAer1UwNJ3PABvv-6v_XR3KoLGpDroNGSjyh7M-8Ham4uE3-wEoXaPKJEs7APb6s6pnQfg8QZJR9ZY8SOUZvVmGAi3OzlOfBcnbYmrz9yTFEW-oUlvdOWQ1i4NVZzKA6n4u5w?ccb=10-5&oh=00_AfBZxRhky84qAbawYu3XDawolMS8W_2u11MofrOx49BaRQ&oe=656B5D8D&_nc_sid=201bca",
+            "merge_cc": 247896713,
+            "sequence": "Ceg3fM6oQIs8tqpxvDLOZG",
+            "width": 4000,
+            "id": "794657581722644"
+        },
+        {
+            "altitude": 163,
+            "atomic_scale": 0.99664757249944,
+            "camera_parameters": [
+                0.80778307443895,
+                -0.00073278711444664,
+                -0.0013680292795262
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1450617507885,
+            "compass_angle": 106.60437513749,
+            "computed_altitude": 2.1405990766361,
+            "computed_compass_angle": 89.983618552132,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036378009271,
+                    49.005165162755
+                ]
+            },
+            "computed_rotation": [
+                1.196239696804,
+                -1.2209352521887,
+                1.1923236927649
+            ],
+            "creator": {
+                "username": "charlie_s60",
+                "id": "106466768253514"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4035519,
+                    49.0051711
+                ]
+            },
+            "height": 3120,
+            "make": "LG Electronics",
+            "model": "LG-D855",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An-xmu5sfCTYnftl4Z0qAY3NDkyRyZ6UfcqTLJn1azAv_eEiTwut3pB1UT3od8u1XNvZJ89YJVjltArpdNQaEHWSb_ktTh2YjmVsZnSs4YlCz2VjnmdI8UrGpcoShJOP2BpLk1icujtaRQhpv2ge5Q?ccb=10-5&oh=00_AfCueC_vaA8FJ4fXNJTK5jROhM1S9ywAcNm708nGpj6lQA&oe=656B56E5&_nc_sid=201bca",
+            "merge_cc": 2.5459412220397e+18,
+            "sequence": "SlFXTAbs0qvsa9xGj5eWmg",
+            "width": 4160,
+            "id": "302583644641481"
+        },
+        {
+            "altitude": 168.416,
+            "atomic_scale": 0.98885118362998,
+            "camera_parameters": [
+                0.47263127784628,
+                -0.19230515059248,
+                0.030308053904923
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1660299936000,
+            "compass_angle": 0,
+            "computed_altitude": 2.7123462921008,
+            "computed_compass_angle": 3.8087484792553,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036222721434,
+                    49.005236354387
+                ]
+            },
+            "computed_rotation": [
+                1.7532726078292,
+                -0.063046859078819,
+                0.044535476126027
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036301,
+                    49.0052475
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An9DLZmkTMWCsoCn8pMlB3H8_192zcmcwpxrvQkAjx9TIcSTPboBy8EZdFNE-8D-z0JdX7-4g8_NSrdOcw1ZHTyR2-YdpN8aJgcbFLBakW1GmeOp1M7N34ij63b5_b20i4k4fPFJ4-D4X_Gy8vjiKA?ccb=10-5&oh=00_AfCXF2vVvLPhxrcVXZ8TcRmLLgKj1bPtKMV4lrhSnCitsw&oe=656B6DC6&_nc_sid=201bca",
+            "merge_cc": 247896713,
+            "sequence": "Ceg3fM6oQIs8tqpxvDLOZG",
+            "width": 4000,
+            "id": "1706049716438787"
+        },
+        {
+            "altitude": 164.28619425852,
+            "atomic_scale": 0.97814786790387,
+            "camera_parameters": [
+                0.74326949511079,
+                0.0036390259261658,
+                -0.046676365129386
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1465988870608,
+            "compass_angle": 213.53932249802,
+            "computed_altitude": 3.2864011842757,
+            "computed_compass_angle": 210.0960704814,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4038105684454,
+                    49.005357685083
+                ]
+            },
+            "computed_rotation": [
+                -1.5006518123436,
+                0.36107805542614,
+                0.46041602102853
+            ],
+            "creator": {
+                "username": "dns_vlpt",
+                "id": "106249774946195"
+            },
+            "exif_orientation": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4038571,
+                    49.0054238
+                ]
+            },
+            "height": 1836,
+            "make": "samsung",
+            "model": "SM-A510F",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An_4eZpOj6eRGXNDoImg3baHhjPYz_mkvCxix0aFToiR66Y-XoEK1Z6ll4Qr2FEEVFmnGjr6az3utHA36GB7hUIFtlqslK2Zfa3byI9L3GJu4AGVS7DEo9Z7O2FGEwx8p8EjaBtBqxYqsVTKJDp40Q?ccb=10-5&oh=00_AfAcU-T7o1aHRGtEr1iFY68-2CTzXNGhiKtG1elHBaRwlg&oe=656B4AF3&_nc_sid=201bca",
+            "merge_cc": 2.5479476601718e+18,
+            "sequence": "s94mi593sqrcp2pzdj1g2c",
+            "width": 3264,
+            "id": "367759227976189"
+        },
+        {
+            "altitude": 164,
+            "atomic_scale": 0.98847707988029,
+            "camera_parameters": [
+                0.47263127784628,
+                -0.19230515059248,
+                0.030308053904923
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1660299971000,
+            "compass_angle": 0,
+            "computed_altitude": 2.9771203426644,
+            "computed_compass_angle": 4.591527240018,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036371273155,
+                    49.005401667894
+                ]
+            },
+            "computed_rotation": [
+                1.7334214993512,
+                -0.15993013896553,
+                -0.017411342318883
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036565,
+                    49.005402699972
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An_-jerTCWiTtr5sGHmeXZnLaRINXNU0is4JsKOA6DTLMCtfRBn43H_GG0QdCWoZTqnoS9Knd5oUFmBPuy3xKoaJa5kyif7DetArCMEuKSW6fQ9Pk32LKDwBBrNVwAqYFXBJ6w-qrT2kdwX1E5pTf4Y?ccb=10-5&oh=00_AfB0fFDGUc2xuQ4em4fJ5khYMAZdr3dWWoothGSK07LbfA&oe=656B481E&_nc_sid=201bca",
+            "merge_cc": 247896713,
+            "sequence": "Ceg3fM6oQIs8tqpxvDLOZG",
+            "width": 4000,
+            "id": "625062825802154"
+        },
+        {
+            "altitude": 176.734,
+            "atomic_scale": 0.98896799732838,
+            "camera_parameters": [
+                0.47263127784628,
+                -0.19230515059248,
+                0.030308053904923
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1660299915000,
+            "compass_angle": 0,
+            "computed_altitude": 2.7105064811185,
+            "computed_compass_angle": 10.363541668537,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036212452155,
+                    49.005217361557
+                ]
+            },
+            "computed_rotation": [
+                1.6914316667887,
+                -0.21117891988517,
+                0.084482615989358
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036180999722,
+                    49.005208099972
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An-WBHlWASs_ennd_M9vAjEnNJz5XpLUuzMtm9Ym_-bfFzPotcIeUeOUr0pGm4ZYKPnbXzETosy4WP3KSTKr1kJHv1YWIenJDCzorYjGkFMMVn3igTCxTvLNIqcVyJbRxjcv1juPM-JWa5BaXX0wKg?ccb=10-5&oh=00_AfCA6dB8__aGwVptaWCj_sQmpdVy3fyUXk-tcdDRAgeBpA&oe=656B71F6&_nc_sid=201bca",
+            "merge_cc": 247896713,
+            "sequence": "Ceg3fM6oQIs8tqpxvDLOZG",
+            "width": 4000,
+            "id": "392866283028258"
+        },
+        {
+            "altitude": 163.69999694824,
+            "atomic_scale": 1.3465201888861,
+            "camera_parameters": [
+                0.91083378473059,
+                0.043511262429488,
+                -0.088928380886443
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1443631999177,
+            "compass_angle": 8.7772298127879,
+            "computed_altitude": 2.7095774449408,
+            "computed_compass_angle": 10.816771653343,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.403617502068,
+                    49.005179855004
+                ]
+            },
+            "computed_rotation": [
+                -0.19423596110765,
+                -2.0011633120739,
+                -2.2328194161914
+            ],
+            "creator": {
+                "username": "live",
+                "id": "109628561267560"
+            },
+            "exif_orientation": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.40358371,
+                    49.00507679
+                ]
+            },
+            "height": 1200,
+            "make": "HTC",
+            "model": "HTC One",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An8SIJE5JCbeQP7paUNhRpTpjDeMMBECLscoB4rNa1VhT0EWUmSIoGDXQrm7O1vZUAJUqcg8_gZRA1p_MHOSG5FhP6U9VhnONtm616mo38KBrSgYekQOe8turBIOv5nd8EAAJAFijtnAO2ZU_xMR5hQ?ccb=10-5&oh=00_AfCjG9vuIN_NAQkv-FWOgzmvvgPiiwJAzvKg0GcYxUhygQ&oe=656B4431&_nc_sid=201bca",
+            "merge_cc": 2.4415438144936e+17,
+            "sequence": "3gsqwq5wq2hazvo0y2xc4t",
+            "width": 1600,
+            "id": "755229031852894"
+        },
+        {
+            "altitude": 165.15,
+            "atomic_scale": 0.96115030521898,
+            "camera_parameters": [
+                0.51944813477308,
+                -0.17647679986571,
+                0.024554365081556
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1559323184000,
+            "compass_angle": 0,
+            "computed_altitude": 2.8849632628262,
+            "computed_compass_angle": 188.14632187723,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4033946817332,
+                    49.005404317056
+                ]
+            },
+            "computed_rotation": [
+                0.27640548858862,
+                2.3184300804317,
+                -2.0551776543638
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4034210999722,
+                    49.0054244
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An8QKzv_oL2Yweqfpnh45Qjrlf6kJI_HkC3ldzNA926kP-Sz8s4JBUULr6ta3HZEx66q92OIdmg2MYvFP8AvH7mDYhRlqEU6OYxZzyhH21JrBRQyGwBIxrij4v-FZEXZDFw-BkcVm1qV_P5Lipp4AGk?ccb=10-5&oh=00_AfCr1xdBxokaoPKTCDNlEcQzhQTjeR2oAU4GS-SccwsuHg&oe=656B4EEE&_nc_sid=201bca",
+            "merge_cc": 2.7284593838654e+18,
+            "sequence": "w46yAodpnPs888ui8cYBQQ",
+            "width": 4000,
+            "id": "975067083323606"
+        },
+        {
+            "altitude": 164.28619425852,
+            "atomic_scale": 0.97814198016147,
+            "camera_parameters": [
+                0.74326949511079,
+                0.0036390259261658,
+                -0.046676365129386
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1465988871095,
+            "compass_angle": 213.53932249802,
+            "computed_altitude": 3.3555294629186,
+            "computed_compass_angle": 217.73221839168,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4037741895597,
+                    49.005325447584
+                ]
+            },
+            "computed_rotation": [
+                -1.4779363711078,
+                0.46495883395099,
+                0.56320730239906
+            ],
+            "creator": {
+                "username": "dns_vlpt",
+                "id": "106249774946195"
+            },
+            "exif_orientation": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4038571,
+                    49.0054238
+                ]
+            },
+            "height": 1836,
+            "make": "samsung",
+            "model": "SM-A510F",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An-vSv1p1rDUtQkH_8Ezr8KnFmehLBGzfW_j3bRMhpGWAh2llhVHAYd6F3ED_7JOC3Esd4WI9rUJXtoeFee3RB_o_lHOdUE8rzer_RpLiCXLvtqSonloJ-jUYCl9joRTjhn5p7wU7Txb7xhjopiImNA?ccb=10-5&oh=00_AfDm9rwrnLBxP8cK6Ss-IiEjOwi6eoTVwYoLrHBaiO-hUw&oe=656B715A&_nc_sid=201bca",
+            "merge_cc": 2.5479476601718e+18,
+            "sequence": "s94mi593sqrcp2pzdj1g2c",
+            "width": 3264,
+            "id": "3053076684920125"
+        },
+        {
+            "altitude": 163.797,
+            "atomic_scale": 0.98882014589923,
+            "camera_parameters": [
+                0.47263127784628,
+                -0.19230515059248,
+                0.030308053904923
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1660299964000,
+            "compass_angle": 0,
+            "computed_altitude": 2.7184395641088,
+            "computed_compass_angle": 4.9157350489315,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036223649443,
+                    49.005236303549
+                ]
+            },
+            "computed_rotation": [
+                1.7485387993637,
+                -0.089527745842129,
+                0.050609018419613
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036352,
+                    49.0052474
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An_dbA5Ih3z1L65Tuz9wSPlus1B6gd7Ecl7nYSko6loGCbkbl1C4yBO9dhoKpMLtf9VjtFegIiZtMq5pcsHfBPULIH7Eeb2Df8ihTGRBYYGlPUsqs-rLAZbtGjw4FoxVoNwWjZkiWduBZXVXEI9dPw?ccb=10-5&oh=00_AfB1UV4InbkgKE5RCk1n5t6sFiVNn7IT8Pq69PyEWGA_dQ&oe=656B4DB3&_nc_sid=201bca",
+            "merge_cc": 247896713,
+            "sequence": "Ceg3fM6oQIs8tqpxvDLOZG",
+            "width": 4000,
+            "id": "383761890597319"
+        },
+        {
+            "altitude": 119.01659355313,
+            "atomic_scale": 0.99294989908487,
+            "camera_parameters": [
+                0.7979691031076,
+                0.028048029989351,
+                -0.023154333219295
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1671531684713,
+            "compass_angle": 220.55915374768,
+            "computed_altitude": 3.3100692378357,
+            "computed_compass_angle": 198.98201451778,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4034568642764,
+                    49.005435557303
+                ]
+            },
+            "computed_rotation": [
+                0.27815314484184,
+                1.8237840295391,
+                -2.191961227009
+            ],
+            "creator": {
+                "username": "tasmaniadevil",
+                "id": "105128028394163"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.403483868256,
+                    49.005473275098
+                ]
+            },
+            "height": 3024,
+            "make": "Apple",
+            "model": "iPhone SE",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An-jQPT5KuSVn5J_H42j4aWVfi90lKGPaEwGQbOrI_La7nBFkim8vUblegUjnwiyoCCLeV0lOk8uAGkK_ZBbJpOTlQZNlHXDuiHRbJ5YZ--V6DPX2AYSyLiS451rjiHnGmdC66DuNUlqtOeAxZtTjA?ccb=10-5&oh=00_AfCaBy8B5svlYXuqUB2mQCyFz4DB_PJivnJGlr5B9-bskQ&oe=656B3E8A&_nc_sid=201bca",
+            "merge_cc": 1308359508,
+            "sequence": "amNih4WpsCd9lJDSquyGVc",
+            "width": 4032,
+            "id": "913676386292341"
+        },
+        {
+            "altitude": 173.992,
+            "atomic_scale": 0.98885107223899,
+            "camera_parameters": [
+                0.47263127784628,
+                -0.19230515059248,
+                0.030308053904923
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1660299919000,
+            "compass_angle": 0,
+            "computed_altitude": 2.717225022614,
+            "computed_compass_angle": 6.6545498145051,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036221583677,
+                    49.005236086464
+                ]
+            },
+            "computed_rotation": [
+                1.7024330153372,
+                -0.11697135998033,
+                0.070818256424752
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036278,
+                    49.0052316
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An-k1kwtV4HjhqBiugWXDqbqy52JXnj8QcFi-foJf_zsVUL5HyWnTlRj3qF8OLgtc9tht1bX6CKHFkVitelVws_-XGDhtKxLpspMN7gQL1xPBYY5rQFMz5ED9JjJW1Eyb9aswt1K1v5RvnRTaJx-Uw?ccb=10-5&oh=00_AfB5S2U95cVCJY-Iyr8B2QHXut1pH7B0Lv3PSmRRUrsR0Q&oe=656B6ED9&_nc_sid=201bca",
+            "merge_cc": 247896713,
+            "sequence": "Ceg3fM6oQIs8tqpxvDLOZG",
+            "width": 4000,
+            "id": "485481246446078"
+        },
+        {
+            "altitude": 169.802,
+            "atomic_scale": 0.98885121411632,
+            "camera_parameters": [
+                0.47263127784628,
+                -0.19230515059248,
+                0.030308053904923
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1660299930000,
+            "compass_angle": 0,
+            "computed_altitude": 2.7158065028489,
+            "computed_compass_angle": 3.1737914960412,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036223280322,
+                    49.005236309807
+                ]
+            },
+            "computed_rotation": [
+                1.7567692523282,
+                -0.043888006145719,
+                0.044309788481336
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.403631,
+                    49.005244799972
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An_IVxwqF9wkz2bjqLu5THHhxuXofdJenTd6Dqjn18HQttunV47j5PzIlNsxXF0BC0_QL9-Q0M4dpoyDpC6gNUf_IzyTO7JdaVQE_IJuoXtF02WOcC1r1FIxgT-jH9lmEXOITNHdwEe8PnqyblUc0w?ccb=10-5&oh=00_AfDEoakhyTLQq1cczvKtsSyRH2VOV7XLTZyD1wKazRiWzQ&oe=656B3ECA&_nc_sid=201bca",
+            "merge_cc": 247896713,
+            "sequence": "Ceg3fM6oQIs8tqpxvDLOZG",
+            "width": 4000,
+            "id": "802340277581718"
+        },
+        {
+            "altitude": 173.325,
+            "atomic_scale": 0.98885109594455,
+            "camera_parameters": [
+                0.47263127784628,
+                -0.19230515059248,
+                0.030308053904923
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1660299920000,
+            "compass_angle": 0,
+            "computed_altitude": 2.7182341506705,
+            "computed_compass_angle": 5.7865655762886,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036222647349,
+                    49.005236115713
+                ]
+            },
+            "computed_rotation": [
+                1.7069922308452,
+                -0.10083129954013,
+                0.062456624570513
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036301,
+                    49.005234299972
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An8l0NQAbkc8hsploiTCfWaLlfItrRJgZoWMruYz6ZqjEkFtMkg_h9nbi1Ovfe5nvP8yMXtBhSmkzkTRLrWb1ZIWnbQnueTG_KU4jEWR01fakqsheAXdgCWxuwW_I80s1Gtx5T8yu_S-IQzAEgLHBA?ccb=10-5&oh=00_AfBrrpq69owapFeTC2VKQrut6IGe1JKlK_5TOYBV7GPE9A&oe=656B3C22&_nc_sid=201bca",
+            "merge_cc": 247896713,
+            "sequence": "Ceg3fM6oQIs8tqpxvDLOZG",
+            "width": 4000,
+            "id": "186739213807850"
+        },
+        {
+            "altitude": 170.29752737732,
+            "atomic_scale": 1.0766750409397,
+            "camera_parameters": [
+                0.76760276481311,
+                0.09686381617871,
+                -0.12762207015844
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1497524687846,
+            "compass_angle": 121.09664154053,
+            "computed_altitude": 1.5568058108911,
+            "computed_compass_angle": 113.53621962598,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4033373553046,
+                    49.005194112016
+                ]
+            },
+            "computed_rotation": [
+                0.98495413462363,
+                -1.5263566590718,
+                1.483234665186
+            ],
+            "creator": {
+                "username": "bufonto",
+                "id": "100930438817170"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4034045232449,
+                    49.005123462821
+                ]
+            },
+            "height": 1520,
+            "make": "HTC",
+            "model": "HTC One",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An8-q_928XqotESRMTrvkYJ9ezOY3WKkVh8MbuckySrPxyY-kuDKck6vBcXxdRJUedkMzPGhycoo1Cw5ag79MxxiF9RF5FyUW_XVy7nRQ1oU-Sb1zNk1rvInHPcylLuhUN7iIOqNrUELpEbGmthxzAI?ccb=10-5&oh=00_AfCpLkOG5s34tWq1PMHBGy19xY6QyRKre8v0eoHLIKZDTQ&oe=656B629F&_nc_sid=201bca",
+            "merge_cc": 2.8709421430822e+18,
+            "sequence": "ly5wv1wnlsd157xrjb7n9b",
+            "width": 2688,
+            "id": "1101034090396029"
+        },
+        {
+            "altitude": 166.96884063312,
+            "atomic_scale": 0.97813568659467,
+            "camera_parameters": [
+                0.74326949511079,
+                0.0036390259261658,
+                -0.046676365129386
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1465988873591,
+            "compass_angle": 224.78268294296,
+            "computed_altitude": 3.4642448555678,
+            "computed_compass_angle": 253.86829716528,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4035210877083,
+                    49.005221010973
+                ]
+            },
+            "computed_rotation": [
+                -1.3199906496436,
+                0.94890041393292,
+                1.0479780103183
+            ],
+            "creator": {
+                "username": "dns_vlpt",
+                "id": "106249774946195"
+            },
+            "exif_orientation": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036331,
+                    49.0052513
+                ]
+            },
+            "height": 1836,
+            "make": "samsung",
+            "model": "SM-A510F",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An9GobX_mHsOJlVJVlc7g4EIq7IxrtDiygqN6W2Muh6LFr7i7ULR5LY0skKm1tnWGLNYwxbmMzG9QQRejae_E4qqeNC-lq3S33v4mVLVp4qvrskagZh08zb5IP0O7e1yCLw1EVsDOCKsAI4Q1HHUOA?ccb=10-5&oh=00_AfAoWKZwpJBr2KdNucrm1ZBdRKjXVJjXK4edqr9EIlTZbg&oe=656B3DA1&_nc_sid=201bca",
+            "merge_cc": 2.5479476601718e+18,
+            "sequence": "s94mi593sqrcp2pzdj1g2c",
+            "width": 3264,
+            "id": "322408826075091"
+        },
+        {
+            "altitude": 165.5,
+            "atomic_scale": 1.3465046066934,
+            "camera_parameters": [
+                0.91083378473059,
+                0.043511262429488,
+                -0.088928380886443
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1443632001745,
+            "compass_angle": 30.902700068202,
+            "computed_altitude": 2.6729109557346,
+            "computed_compass_angle": 58.764476561551,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4037157529774,
+                    49.0052421618
+                ]
+            },
+            "computed_rotation": [
+                -0.86880220739003,
+                -1.5108092090622,
+                -1.6690855256017
+            ],
+            "creator": {
+                "username": "live",
+                "id": "109628561267560"
+            },
+            "exif_orientation": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.40363826,
+                    49.00518893
+                ]
+            },
+            "height": 1200,
+            "make": "HTC",
+            "model": "HTC One",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An8oqD17I2uLeh63ZK96ITJCjGQ5JQiZ04DKymiRRwrJaMz4x-7QS2xScPQNoaUqmT3DMDuenAQvbX22gADEW7UosEW_Xc1YfwMtIorGGqeeJ9FYa8OMc_dBCTcLuwMa4SmAOAh6IV_boivxLks7DA?ccb=10-5&oh=00_AfDCLo_sO5lns7RNVHviVxOV0d7RXmPcq_I3cWhRmgy4TQ&oe=656B5A08&_nc_sid=201bca",
+            "merge_cc": 2.4415438144936e+17,
+            "sequence": "3gsqwq5wq2hazvo0y2xc4t",
+            "width": 1600,
+            "id": "154720426511359"
+        },
+        {
+            "altitude": 118.71877537388,
+            "atomic_scale": 0.99287861131832,
+            "camera_parameters": [
+                0.7979691031076,
+                0.028048029989351,
+                -0.023154333219295
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1671531685702,
+            "compass_angle": 205.85489837999,
+            "computed_altitude": 3.2955961115658,
+            "computed_compass_angle": 193.94141161438,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4034123748406,
+                    49.005381946203
+                ]
+            },
+            "computed_rotation": [
+                0.21175965379217,
+                1.8829257620865,
+                -2.2483116532638
+            ],
+            "creator": {
+                "username": "tasmaniadevil",
+                "id": "105128028394163"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4034409568449,
+                    49.00541518745
+                ]
+            },
+            "height": 3024,
+            "make": "Apple",
+            "model": "iPhone SE",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An9RuRbVgt8EFj-p_csf8yAcJRHnx55cODHEBUt6PrPnxHOkeBJEzv8QrbtRuJH4MmZhre0NK3kxx6ERDPIaJqrPPGn1VeM9O6rqouUpR9DgwZL5Y9Wt8bhaGuNseON7Dk7dvNT4puyVwyM67ET4Ow?ccb=10-5&oh=00_AfAWarL80fYfG_k-uzWhjPi_4l969xhTVLInF8OwQYjilw&oe=656B68A5&_nc_sid=201bca",
+            "merge_cc": 1308359508,
+            "sequence": "amNih4WpsCd9lJDSquyGVc",
+            "width": 4032,
+            "id": "871077057423142"
+        },
+        {
+            "altitude": 164.331,
+            "atomic_scale": 0.98841984853513,
+            "camera_parameters": [
+                0.47263127784628,
+                -0.19230515059248,
+                0.030308053904923
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1660299972000,
+            "compass_angle": 0,
+            "computed_altitude": 3.0675891553983,
+            "computed_compass_angle": 5.6917157602579,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036399436604,
+                    49.005443690709
+                ]
+            },
+            "computed_rotation": [
+                1.720687408102,
+                -0.16244049827368,
+                0.0076925932224222
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036589999722,
+                    49.005446399972
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An8sDGeXm4ofZ2nSev8Z5ErOUJt6CyM3BIWaocXPYg_F7DBDlQr8-vZxIGP8k61I_ZBBWq970Sk9_5GXRmM4ytIOncC7XTphOlZsF0J377fw_ggzod5WQFjV95g0mtc6rnthoo_V4ABiY1nc5vEF8Q?ccb=10-5&oh=00_AfAbz4c78x5DPK5T6nVL9TfkaR8a_tWCR7Mk9CtF322JUg&oe=656B6F83&_nc_sid=201bca",
+            "merge_cc": 247896713,
+            "sequence": "Ceg3fM6oQIs8tqpxvDLOZG",
+            "width": 4000,
+            "id": "114754484580789"
+        },
+        {
+            "altitude": 165.06,
+            "atomic_scale": 0.91355996608544,
+            "camera_parameters": [
+                0.43619724697064,
+                0.057120658425356,
+                0.001899696168921
+            ],
+            "camera_type": "fisheye",
+            "captured_at": 1641483263000,
+            "compass_angle": 78.387646712826,
+            "computed_altitude": 2.0726555129513,
+            "computed_compass_angle": 80.484636799681,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.403402579067,
+                    49.00534905299
+                ]
+            },
+            "computed_rotation": [
+                1.2660152917914,
+                -1.0817710153127,
+                1.0846324189527
+            ],
+            "creator": {
+                "username": "nakaner",
+                "id": "102187028688979"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4034847999722,
+                    49.0052796
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO7 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An-EgmatrmwiyCQdFVq-gnb0ElL6kRn1meOukDFMsWpzV6x3Y96crQDRc4RD3bWsmTkenmhyLWvxNWO6HDviATrkEUNjam3rg6jWuDHMo38ZQmn-r6b7iny0yHQZKhlGtMN9sJ7gjjcJptFHj99Hn7Y?ccb=10-5&oh=00_AfAd-dWEbtQUUDfV6Iyi7J-QfnjX9nP_uEr3LnneTJMa5A&oe=656B6AC0&_nc_sid=201bca",
+            "merge_cc": 1308359508,
+            "sequence": "C9Xn7HLEo5VY4iKxt0ODUu",
+            "width": 4000,
+            "id": "459394542383700"
+        },
+        {
+            "altitude": 163.873,
+            "atomic_scale": 0.98861018282559,
+            "camera_parameters": [
+                0.47263127784628,
+                -0.19230515059248,
+                0.030308053904923
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1660299969000,
+            "compass_angle": 0,
+            "computed_altitude": 2.8458270570263,
+            "computed_compass_angle": 5.8045217257499,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036309716585,
+                    49.00532485885
+                ]
+            },
+            "computed_rotation": [
+                1.7555040791166,
+                -0.12409781192635,
+                0.044722418290739
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036480999722,
+                    49.0053264
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An-dUOz_TqUqKdz_fEDNjzM5OFWD3HF6H0eEM0koh5s1428qhLkZqeRLhsbXCFoqMr86bkljtivpXEDg50d9quF7PCxWbUv_rwRtaI6FkI-hkW8ctasyqXNms89dadYT1IMxW8tAS3Rl7VUsegk89F8?ccb=10-5&oh=00_AfBEsq5imuWrODIBTrb5JzqPLpvVt5KqaG5A4Y_cvkxlnw&oe=656B3F20&_nc_sid=201bca",
+            "merge_cc": 247896713,
+            "sequence": "Ceg3fM6oQIs8tqpxvDLOZG",
+            "width": 4000,
+            "id": "877327859897437"
+        },
+        {
+            "altitude": 170.12544492827,
+            "atomic_scale": 1.0107176808946,
+            "camera_parameters": [
+                0.80585283922094,
+                0.099874729909293,
+                -0.12742445513507
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1497524689947,
+            "compass_angle": 32.659244537354,
+            "computed_altitude": 0.32272760104388,
+            "computed_compass_angle": 75.012736338787,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036807879966,
+                    49.005199254271
+                ]
+            },
+            "computed_rotation": [
+                1.2932525846818,
+                -1.0959671932889,
+                0.9260130656759
+            ],
+            "creator": {
+                "username": "bufonto",
+                "id": "100930438817170"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4037092746451,
+                    49.005106652797
+                ]
+            },
+            "height": 1520,
+            "make": "HTC",
+            "model": "HTC One",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An8wfCcmNNAN0dDL6a_n6lseN9Yz3IvLvnKEmJASqAu9ZBtn9q4K63Wi93z4l9R5N3b_ATiF9kItTx9s14m9HkPAMHfcP6QaD_DjwNL9M4WgTVZBaH9FSOLePYFC_WGlzrq5v8qpXYWFmDjknOMrvg?ccb=10-5&oh=00_AfC3SgVaV69lOcryJvCFBOGSWElaprugv13q4d0iQvZn-g&oe=656B50C4&_nc_sid=201bca",
+            "merge_cc": 2.5459412220397e+18,
+            "sequence": "ly5wv1wnlsd157xrjb7n9b",
+            "width": 2688,
+            "id": "481231233199029"
+        },
+        {
+            "altitude": 163.89999389648,
+            "atomic_scale": 1.3465030710678,
+            "camera_parameters": [
+                0.91083378473059,
+                0.043511262429488,
+                -0.088928380886443
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1443632007199,
+            "compass_angle": 62.952052894083,
+            "computed_altitude": 2.5804406898096,
+            "computed_compass_angle": 47.992229184759,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4037952606646,
+                    49.005278164683
+                ]
+            },
+            "computed_rotation": [
+                -0.75553537018415,
+                -1.647386777543,
+                -1.7959073340289
+            ],
+            "creator": {
+                "username": "live",
+                "id": "109628561267560"
+            },
+            "exif_orientation": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.40382093,
+                    49.00526786
+                ]
+            },
+            "height": 1200,
+            "make": "HTC",
+            "model": "HTC One",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An9C49Wl8H-CLxt76DSzWAoLnjZUVsoBdn9wJLr--nS8Cg3S2XFbCAFjvL6Ue5HfFqbzplDAEAlux5fbbxUpY_YqxY2yp1oSQrnZV-wA1V2I5vFkqDpkJh2O_xXI6pE9iF7FnlS9rrKP2qpOrJOjRA?ccb=10-5&oh=00_AfBgtYzgFrcKXuE3tgcNQO5YAtuBFCqLqKFLvefRggw4EA&oe=656B4679&_nc_sid=201bca",
+            "merge_cc": 2.4415438144936e+17,
+            "sequence": "3gsqwq5wq2hazvo0y2xc4t",
+            "width": 1600,
+            "id": "902025563691218"
+        },
+        {
+            "altitude": 164.775,
+            "atomic_scale": 0.95772946005339,
+            "camera_parameters": [
+                0.51944813477308,
+                -0.17647679986571,
+                0.024554365081556
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1559323187000,
+            "compass_angle": 0,
+            "computed_altitude": 3.2588972374797,
+            "computed_compass_angle": 188.30736383183,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4033793343222,
+                    49.005310197375
+                ]
+            },
+            "computed_rotation": [
+                0.35757375081604,
+                2.3312568493581,
+                -2.0897671279339
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4034098,
+                    49.005327899972
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An8t_NMEHVfgoepufJbBpCuksd7mfaSc2kUKd9vNcslt5G4AA668STsHj7H4ijCznxJkQVv7QtjSZgyZZebXhOKZFgN0XHw4COKmvZ2yGDXUNUfaohWpSXlmddKltBDZIOxwiZLgjNUGZDDsVGlEqiQ?ccb=10-5&oh=00_AfCdmGPi8pl66W6N_PjLckcVyVFm0mW6n0-Ht0QbtA_Whg&oe=656B60E1&_nc_sid=201bca",
+            "merge_cc": 2.7284593838654e+18,
+            "sequence": "w46yAodpnPs888ui8cYBQQ",
+            "width": 4000,
+            "id": "820082145285850"
+        },
+        {
+            "altitude": 120.690041,
+            "atomic_scale": 1.0107601125332,
+            "camera_parameters": [
+                0.50598284503158,
+                -0.2926219397601,
+                0.06652979749731
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1560090487000,
+            "compass_angle": 2.5041107915713,
+            "computed_altitude": 0.9371233349666,
+            "computed_compass_angle": 359.48565794906,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4035621057146,
+                    49.004988811184
+                ]
+            },
+            "computed_rotation": [
+                1.5087199280397,
+                0.12682817186387,
+                0.1200400748458
+            ],
+            "creator": {
+                "username": "morwas",
+                "id": "100869315495479"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.403548,
+                    49.005013
+                ]
+            },
+            "height": 2160,
+            "make": "SONY",
+            "model": "HDR-AS50",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An9z1lz_2LRCcP6t471M_8tsSJh_vylSGYcDWLwBeBj71THrUB6BwOLvJmqg4B74cr28_1dGQSwx7gTS7XHfw77xer41704rcDgKU9m8yy181bWvW8dy8T2qzs_1d9AyOT6umhHAm2ZrU0NhIDZfhA?ccb=10-5&oh=00_AfANSL4PIvUvW6Q9h688y0BNhji9gAOtRZWeAyhOMjHbkw&oe=656B7085&_nc_sid=201bca",
+            "merge_cc": 2.4415438144936e+17,
+            "sequence": "AP4OYmJhjVN-69TRxUqEWA",
+            "width": 3840,
+            "id": "2987520158151388"
+        },
+        {
+            "altitude": 163.817,
+            "atomic_scale": 0.98854282804793,
+            "camera_parameters": [
+                0.47263127784628,
+                -0.19230515059248,
+                0.030308053904923
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1660299970000,
+            "compass_angle": 0,
+            "computed_altitude": 2.9184839008376,
+            "computed_compass_angle": 10.425037187211,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036352031654,
+                    49.005361655529
+                ]
+            },
+            "computed_rotation": [
+                1.7085725133343,
+                -0.24909745847075,
+                0.054900027054118
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036530999722,
+                    49.005361999972
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An9zdgJA40_0oMGepeowxC72_UX-WcTOzk4bT-tPlRS2jp74i8NCYxVaSEgVWMMBMWURdF6O7MhUXsbl9GyC1ZRwjv9VaU98aLimd6vfKWQdf1u5-ZUIcJEUmH_1PPbDeUHvteIyoqGIufLJPEw45A?ccb=10-5&oh=00_AfDP0K9I5_gsjUti8IvKWggHF8nZrSC8VYGqkyMiqfwymQ&oe=656B6486&_nc_sid=201bca",
+            "merge_cc": 247896713,
+            "sequence": "Ceg3fM6oQIs8tqpxvDLOZG",
+            "width": 4000,
+            "id": "1120227918588099"
+        },
+        {
+            "altitude": 167.284,
+            "atomic_scale": 1.4774090396429,
+            "camera_parameters": [
+                0.44186472717085,
+                0.061720721671367,
+                0.0062072228327011
+            ],
+            "camera_type": "fisheye",
+            "captured_at": 1639652552000,
+            "compass_angle": 215.78369106989,
+            "computed_altitude": 1.5437757652253,
+            "computed_compass_angle": 224.42058414898,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4035049417391,
+                    49.005524466683
+                ]
+            },
+            "computed_rotation": [
+                0.57233466651241,
+                1.7335593394591,
+                -1.701460407379
+            ],
+            "creator": {
+                "username": "nakaner",
+                "id": "102187028688979"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4035705,
+                    49.0054864
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO7 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An9BgE0Vr1oOTbuMGHr0aCIMbFsU-fKgWjPIJUvbgSVJAmYyegwG2UO-aQryFUvfMkk9r4Lmb5hu86j9gFXuClcC4NqPlMukApdkTJbVoHf0ffYjpEwsN9-lhNMqF5RGxgmXLjXBj6BQLiCYMV7-WA?ccb=10-5&oh=00_AfCwNWZdk_h54aeqBfmnsy_36pxXHFr_KNjDt4MOqQQrEQ&oe=656B6BE7&_nc_sid=201bca",
+            "merge_cc": 1308359508,
+            "sequence": "iVTMW39aIjbF7x6qDJ5cBX",
+            "width": 4000,
+            "id": "2764477477186819"
+        },
+        {
+            "altitude": 179.925,
+            "atomic_scale": 0.98931694381318,
+            "camera_parameters": [
+                0.47263127784628,
+                -0.19230515059248,
+                0.030308053904923
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1660299910000,
+            "compass_angle": 0,
+            "computed_altitude": 2.5489362357184,
+            "computed_compass_angle": 9.5264090793421,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036081675098,
+                    49.005098978787
+                ]
+            },
+            "computed_rotation": [
+                1.6980519291347,
+                -0.20254178105924,
+                0.070717804865936
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4035955999722,
+                    49.0050797
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An8EDc5Wr3BRHZjH0mOxNujGIim7TZn7md8mpEy70-Q_AWfaUiwMWPYaW7gQh0MIbJ-4etrC0PJvAvqe-dbbziT2sJyeJ8uPiRXI6fuoMQAIlHTQ_4T1Z6PnUZp4LUVw7hTfgLOcsyiAQjgdxlvF-Q?ccb=10-5&oh=00_AfC0SFjyjRfL0s6wLKVnYt7rOTF7X_4CZ1sYG44ZX4FNOw&oe=656B44E6&_nc_sid=201bca",
+            "merge_cc": 247896713,
+            "sequence": "Ceg3fM6oQIs8tqpxvDLOZG",
+            "width": 4000,
+            "id": "1263976424417058"
+        },
+        {
+            "altitude": 171.992,
+            "atomic_scale": 0.98885112891999,
+            "camera_parameters": [
+                0.47263127784628,
+                -0.19230515059248,
+                0.030308053904923
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1660299922000,
+            "compass_angle": 0,
+            "computed_altitude": 2.719018612057,
+            "computed_compass_angle": 5.4480735124064,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036223703057,
+                    49.005236179278
+                ]
+            },
+            "computed_rotation": [
+                1.708408492332,
+                -0.092889547677629,
+                0.060609073008666
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036328999722,
+                    49.005239699972
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An8i_Ci5D-iHgjKrsgDQinPtcQ3CsvrVMKODPpeDWabDPbk5gXf5bvL6THVeZCOiiSBYxdsCAIBVWuh703nVsqEYAy2VOeHp-ftdh4ZV9HWWSYt8r3Ic9iabAa08oys7V-OEXNBZiCcLZuok3vXzvA?ccb=10-5&oh=00_AfAgLlcbETbkifJEoAKVMKfStp9uJaumbdQvXvckEARPVQ&oe=656B4746&_nc_sid=201bca",
+            "merge_cc": 247896713,
+            "sequence": "Ceg3fM6oQIs8tqpxvDLOZG",
+            "width": 4000,
+            "id": "659926635283274"
+        },
+        {
+            "altitude": 177.489,
+            "atomic_scale": 0.98901359382139,
+            "camera_parameters": [
+                0.47263127784628,
+                -0.19230515059248,
+                0.030308053904923
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1660299914000,
+            "compass_angle": 0,
+            "computed_altitude": 2.684668911621,
+            "computed_compass_angle": 4.5831750092134,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036185072998,
+                    49.005202888632
+                ]
+            },
+            "computed_rotation": [
+                1.7083039988682,
+                -0.16168514592177,
+                -0.02132197510906
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036124999722,
+                    49.005190399972
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An8ugSHbvVg6kewN5e7Eg59YIA7jcbF0-psOkhqvZCIEpUMo_NiTQ02_EGnK5BHsT01foMnrgcrjSPl1NbW6mBSMT1C5itWx1etRZJZgds9UAI0b6mLBu2jXJs2vhFhs8Xb373oFSARvoHlaQPAHww?ccb=10-5&oh=00_AfAALuk1Hu9XpZW4RMpKkkxBB0IeaD62ZHYmWyGk3IzCMw&oe=656B5CA5&_nc_sid=201bca",
+            "merge_cc": 247896713,
+            "sequence": "Ceg3fM6oQIs8tqpxvDLOZG",
+            "width": 4000,
+            "id": "1216112072578767"
+        },
+        {
+            "altitude": 165.051,
+            "atomic_scale": 0.91395515188955,
+            "camera_parameters": [
+                0.43619724697064,
+                0.057120658425356,
+                0.001899696168921
+            ],
+            "camera_type": "fisheye",
+            "captured_at": 1641483268000,
+            "compass_angle": 86.438967534086,
+            "computed_altitude": 1.885918200016,
+            "computed_compass_angle": 82.325407455201,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4038340386289,
+                    49.005377030265
+                ]
+            },
+            "computed_rotation": [
+                1.2463655259775,
+                -1.1064974093029,
+                1.1056172684184
+            ],
+            "creator": {
+                "username": "nakaner",
+                "id": "102187028688979"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4038851,
+                    49.0053235
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO7 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An_TFLqDQ5-AUaOlyq_Eguf-Bni1nph5JQmE3AgpdJG0yS15UnTLdAkDzD3hcVp2TvgK75cwQ_cELWt1g0MCcR02dnQRWpY-7gGLQhsZPTaqt-khdTvI3AZUHwj2oiHdRYdsH6LiAWvDq3g1sFP9CJU?ccb=10-5&oh=00_AfBhcNFdDwmZQ2QNPP9ebiD3tbqgUwOTKJ71sbfR4fT_TA&oe=656B3BEA&_nc_sid=201bca",
+            "merge_cc": 1308359508,
+            "sequence": "C9Xn7HLEo5VY4iKxt0ODUu",
+            "width": 4000,
+            "id": "899419624108114"
+        },
+        {
+            "altitude": 171.632,
+            "atomic_scale": 0.98885116603225,
+            "camera_parameters": [
+                0.47263127784628,
+                -0.19230515059248,
+                0.030308053904923
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1660299923000,
+            "compass_angle": 0,
+            "computed_altitude": 2.7193394890055,
+            "computed_compass_angle": 5.672677958407,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036223963138,
+                    49.005236209972
+                ]
+            },
+            "computed_rotation": [
+                1.7071840362089,
+                -0.098121495829551,
+                0.061861922322545
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036325999722,
+                    49.0052413
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An_KYkP4BC0GtyWtbu10Ywd0U3ZxplSZ-93ybfbN3yjt_w6hmVmRMNdiPvD6sSDhdmgECMV5T4uVkGE-T_sNtx3PQ1AKRZ2x8Ylker-Fm1_lK-OnMrlrL1Jp1mvaj67hvu2NPp9jMYVQ2aMgv3OIoeA?ccb=10-5&oh=00_AfDQgNCmcz13r0n0loaZAYvN_6rAWfdBofGi90KFeauLtA&oe=656B5809&_nc_sid=201bca",
+            "merge_cc": 247896713,
+            "sequence": "Ceg3fM6oQIs8tqpxvDLOZG",
+            "width": 4000,
+            "id": "176795468242280"
+        },
+        {
+            "altitude": 163.65,
+            "atomic_scale": 0.98877971097827,
+            "camera_parameters": [
+                0.47263127784628,
+                -0.19230515059248,
+                0.030308053904923
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1660299966000,
+            "compass_angle": 0,
+            "computed_altitude": 2.7361456137151,
+            "computed_compass_angle": 9.9414482652631,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036236631893,
+                    49.005244234513
+                ]
+            },
+            "computed_rotation": [
+                1.7048427538618,
+                -0.22402102861556,
+                0.0634817849571
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036387,
+                    49.005252599972
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An_gRCpcGi1dXkOgJv9gsi-6sQBeveLie60KWZLYKa-gB-z0i9f9axc6YEOuap94QplQg6HOc7-Z0bucSLCO3l3r1cZGH4szSuu3qe3_D5GVR3_8XkW5Pn3DWZmXlpL9KlsBsHIEGXsqkLvSkvEJAw?ccb=10-5&oh=00_AfCL-8tvziUzZAqqn0TXSWPtkYTMIBNHT4dt6RLXzduAQQ&oe=656B54AC&_nc_sid=201bca",
+            "merge_cc": 247896713,
+            "sequence": "Ceg3fM6oQIs8tqpxvDLOZG",
+            "width": 4000,
+            "id": "3180610982189726"
+        },
+        {
+            "altitude": 120.958319,
+            "atomic_scale": 0.75442508918058,
+            "camera_parameters": [
+                0.51779475453876,
+                -0.29082001932576,
+                0.064248432426055
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1560090551000,
+            "compass_angle": 351.7396220326,
+            "computed_altitude": -0.85338578838855,
+            "computed_compass_angle": 4.8928165950588,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4035255718645,
+                    49.005169103244
+                ]
+            },
+            "computed_rotation": [
+                1.4468386357044,
+                -0.047970392567743,
+                0.085592986555237
+            ],
+            "creator": {
+                "username": "morwas",
+                "id": "100869315495479"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.403530442623,
+                    49.005262
+                ]
+            },
+            "height": 2160,
+            "make": "SONY",
+            "model": "HDR-AS50",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An9SnrSDzH_eAJs8SNOAogZxjePxHr14CE60zlxqBOdHPY7qXWOinp71nnfZN7zMzj_HV8pvhaL_hGCS8CUKe-IkLYpoYe4wYv93MxcB_lgxIH1g3L4tknnrC8om7uBmIjRylNx4hfodLWijReeIjQ?ccb=10-5&oh=00_AfBX_xlthnGtDXb2fXcp7rYp47nRP-zA4o6eSZ2zDFnKfw&oe=656B4FBD&_nc_sid=201bca",
+            "merge_cc": 2.2985246655324e+18,
+            "sequence": "8H665n1RLsaKvVsT8KHUEw",
+            "width": 3840,
+            "id": "463521161616979"
+        },
+        {
+            "altitude": 163,
+            "atomic_scale": 0.99664757249944,
+            "camera_parameters": [
+                0.80778307443895,
+                -0.00073278711444664,
+                -0.0013680292795262
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1450617510353,
+            "compass_angle": 76.408109811888,
+            "computed_altitude": 1.5270446501672,
+            "computed_compass_angle": 54.443449201956,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4038478487012,
+                    49.00521205342
+                ]
+            },
+            "computed_rotation": [
+                1.4332832839415,
+                -0.76539905212182,
+                0.71535581280553
+            ],
+            "creator": {
+                "username": "charlie_s60",
+                "id": "106466768253514"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4038931,
+                    49.0052332
+                ]
+            },
+            "height": 3120,
+            "make": "LG Electronics",
+            "model": "LG-D855",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An-tAGIa2jdvJ2CEskW1Ow_ZJoelyBgFyV9yJkoEhrkSYQsCQIYpQAtOaFDz6c-Hk99Cs4ykZsv9DqrpnUsBjoKS_476NCCjRM4mOqGgjqh87gqc9YSStPunqOJZCi1XDxK3Apk_cqEPrbl30oofTA?ccb=10-5&oh=00_AfD-_uTt1LRSxTgpQMfsIqO5674evpDHkiMrtsZ5oSAe7g&oe=656B7304&_nc_sid=201bca",
+            "merge_cc": 2.5459412220397e+18,
+            "sequence": "SlFXTAbs0qvsa9xGj5eWmg",
+            "width": 4160,
+            "id": "492550101787790"
+        },
+        {
+            "altitude": 165.29090027178,
+            "atomic_scale": 0.97813761387154,
+            "camera_parameters": [
+                0.74326949511079,
+                0.0036390259261658,
+                -0.046676365129386
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1465988871573,
+            "compass_angle": 217.48926077412,
+            "computed_altitude": 3.4104328304529,
+            "computed_compass_angle": 225.01318507426,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4037294273001,
+                    49.005297143708
+                ]
+            },
+            "computed_rotation": [
+                -1.4496958559037,
+                0.56776858789812,
+                0.65611573164463
+            ],
+            "creator": {
+                "username": "dns_vlpt",
+                "id": "106249774946195"
+            },
+            "exif_orientation": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4037867,
+                    49.0053591
+                ]
+            },
+            "height": 1836,
+            "make": "samsung",
+            "model": "SM-A510F",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An-VPJ_hZmYhe6O_l45FzQi8OLXdsD3ogWB6PjJZ6rw2GdZ1Y9GmHOZiuHotJYR3UHwkCDCSa0kPmvzuIZZNu9CXZ3hFh1kz_oGQlVqVDkGaMSiAanxfvnsYLG6xy1_4_gsZ0P6PNAewm0ATiU1r4zE?ccb=10-5&oh=00_AfCQMz_hj5ZatIQCQX2CrZ69is0mWnIRyGU2K3Vs7zzUZw&oe=656B5216&_nc_sid=201bca",
+            "merge_cc": 2.5479476601718e+18,
+            "sequence": "s94mi593sqrcp2pzdj1g2c",
+            "width": 3264,
+            "id": "1120478648418440"
+        },
+        {
+            "altitude": 175.476,
+            "atomic_scale": 0.98888110357252,
+            "camera_parameters": [
+                0.47263127784628,
+                -0.19230515059248,
+                0.030308053904923
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1660299917000,
+            "compass_angle": 0,
+            "computed_altitude": 2.7134788259864,
+            "computed_compass_angle": 5.2769677060196,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036218659,
+                    49.00523595911
+                ]
+            },
+            "computed_rotation": [
+                1.7201223950479,
+                -0.046704531441268,
+                0.09617679347222
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036225,
+                    49.0052285
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An9NyahWz1xHzMDiWk3alqqoC_avSbllGiG3hMyRHllriotSojLgpHOTRzNMOpqcqJojTfk9u_g2l6r2Leq2Fnz3EeN7WfOdxDsHBcnHaG8GlCLxnLtpKpa22Th6Ygcp1Ix5za_R0ZsLgYIEbuOBNA?ccb=10-5&oh=00_AfBIR8wtVW2-jA_PbX4EudnIN8v1tpZWyqlepFqL7BO7CQ&oe=656B4E30&_nc_sid=201bca",
+            "merge_cc": 247896713,
+            "sequence": "Ceg3fM6oQIs8tqpxvDLOZG",
+            "width": 4000,
+            "id": "5832027203474440"
+        },
+        {
+            "altitude": 165.328,
+            "atomic_scale": 0.96264002313387,
+            "camera_parameters": [
+                0.51944813477308,
+                -0.17647679986571,
+                0.024554365081556
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1559323181000,
+            "compass_angle": 0,
+            "computed_altitude": 2.8406995236874,
+            "computed_compass_angle": 184.75132522223,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4034111829828,
+                    49.005496478415
+                ]
+            },
+            "computed_rotation": [
+                0.22544581845166,
+                2.3332787250176,
+                -2.1184404037751
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4034350999722,
+                    49.0055113
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An--ToHJK3BKah-cstuVoF0-SVmwuBsBkrJY2dde42ckaL3O-ovNRNjR6kWUoBClBTGvyRnAo9w6gP241l3QCzPiH6JCL3dh4_zAa6I_z_glpoukPnk7JQL1LA0swW6awM-tzxIOXJjyANCNhhR2BA?ccb=10-5&oh=00_AfDubdcNLm-IiUFR1u7vm4nnHIINzvBMVLoTExfUzsukyA&oe=656B614A&_nc_sid=201bca",
+            "merge_cc": 2.7284593838654e+18,
+            "sequence": "w46yAodpnPs888ui8cYBQQ",
+            "width": 4000,
+            "id": "477051446850717"
+        },
+        {
+            "altitude": 165.134,
+            "atomic_scale": 0.98885117677567,
+            "camera_parameters": [
+                0.47263127784628,
+                -0.19230515059248,
+                0.030308053904923
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1660299949000,
+            "compass_angle": 0,
+            "computed_altitude": 2.7145213903859,
+            "computed_compass_angle": 3.9890333127643,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036223711944,
+                    49.005236330878
+                ]
+            },
+            "computed_rotation": [
+                1.752489097521,
+                -0.069436826635674,
+                0.043801317369639
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036281,
+                    49.005247599972
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An-BiP8r071a6OufJ6RMyr--vlKNRza1saEsNQTW9S4JXs-OX9nY5cL79k2RP_-89R79hkonmspGr0nqyNCTiJdfTPncHG3N-x4YDt2CdO0j3ixpHojFi-B-jahqemUbqHlaQ50XYnTggpX3vhGjKw?ccb=10-5&oh=00_AfD3II944dRs9r_6IaTFw5V3Wm18IzqwnBM7BNhrWuo6Pg&oe=656B3DE3&_nc_sid=201bca",
+            "merge_cc": 247896713,
+            "sequence": "Ceg3fM6oQIs8tqpxvDLOZG",
+            "width": 4000,
+            "id": "1172546886666183"
+        },
+        {
+            "altitude": 118.80413965508,
+            "atomic_scale": 0.99279057385758,
+            "camera_parameters": [
+                0.7979691031076,
+                0.028048029989351,
+                -0.023154333219295
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1671531686801,
+            "compass_angle": 204.9984329477,
+            "computed_altitude": 3.2130191475153,
+            "computed_compass_angle": 185.08585258116,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4033719917397,
+                    49.005309448284
+                ]
+            },
+            "computed_rotation": [
+                0.074095632107322,
+                1.9718513323439,
+                -2.3430105637131
+            ],
+            "creator": {
+                "username": "tasmaniadevil",
+                "id": "105128028394163"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.403398777162,
+                    49.005355846016
+                ]
+            },
+            "height": 3024,
+            "make": "Apple",
+            "model": "iPhone SE",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An-fHw4IAC_8MKNHJS3Sz-cNuAY1Ocsa2Fg-zIM0pNiRdm3PfqLOYvvOC1INoeNsHJLjPYdXXMComLI2P3_rKI_rBD_hsDyZKN99ODO3eIofL8AF70DYU9NospJT4KzN9haAkha8g9mFzi6l-U3iHg?ccb=10-5&oh=00_AfBNmnbGDQmx45H2Pj4cCtMN6gRvoRUn1LulpH7MzhsNjw&oe=656B6769&_nc_sid=201bca",
+            "merge_cc": 1308359508,
+            "sequence": "amNih4WpsCd9lJDSquyGVc",
+            "width": 4032,
+            "id": "1570878643352398"
+        },
+        {
+            "altitude": 170.925,
+            "atomic_scale": 0.98885121194839,
+            "camera_parameters": [
+                0.47263127784628,
+                -0.19230515059248,
+                0.030308053904923
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1660299925000,
+            "compass_angle": 0,
+            "computed_altitude": 2.7191088050604,
+            "computed_compass_angle": 4.8936458273841,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036223982249,
+                    49.005236262859
+                ]
+            },
+            "computed_rotation": [
+                1.7100020452459,
+                -0.081615660185373,
+                0.05604923441566
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036319999722,
+                    49.0052443
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An9XikuVSIFbXRfv9r8YSChsfxuyH05ryD0EziAd3wyvyJwQ1blwQvYQVi0R2jNltNo6Qc0jNsFsrEkMXW_MJPJemO36cDSD9ZNr-uZbDTB3MCEBRl9LnCJhblQk8LoKPZ3jiNzK2Tvtg7cshKfQkLU?ccb=10-5&oh=00_AfAdoNPIBpf9HAoGL3IH5u1bJJ0Jtfxn4t4nKuPHyNVNZg&oe=656B632B&_nc_sid=201bca",
+            "merge_cc": 247896713,
+            "sequence": "Ceg3fM6oQIs8tqpxvDLOZG",
+            "width": 4000,
+            "id": "1100316947545128"
+        },
+        {
+            "altitude": 172.616,
+            "atomic_scale": 0.98885107375446,
+            "camera_parameters": [
+                0.47263127784628,
+                -0.19230515059248,
+                0.030308053904923
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1660299921000,
+            "compass_angle": 0,
+            "computed_altitude": 2.7186437947676,
+            "computed_compass_angle": 5.5492696443532,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036223282102,
+                    49.005236147033
+                ]
+            },
+            "computed_rotation": [
+                1.7080421102366,
+                -0.094371405004003,
+                0.061939379475081
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036319,
+                    49.005237299972
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An9S0cqzt22KPjn0X549kDqnzSumk6SHZ-njRDm2UrFDHOeYRQe-pSBKdib1wcYmDKa_Lbl1gZYqzI_Oe4xveBIoP51SsO8BK7P9cydjMgdqiKaj4z839_9VoC6dqPNQlI5fLkfae9kV5gmDWlx9Tg?ccb=10-5&oh=00_AfCmMiEz3eymxcOjwYMfLAGA9xKJ-4oEEkne4t9CzgdsZg&oe=656B5159&_nc_sid=201bca",
+            "merge_cc": 247896713,
+            "sequence": "Ceg3fM6oQIs8tqpxvDLOZG",
+            "width": 4000,
+            "id": "3218402811734945"
+        },
+        {
+            "altitude": 166.13180084439,
+            "atomic_scale": 0.97813490124631,
+            "camera_parameters": [
+                0.74326949511079,
+                0.0036390259261658,
+                -0.046676365129386
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1465988872587,
+            "compass_angle": 225.27645248723,
+            "computed_altitude": 3.496081485413,
+            "computed_compass_angle": 237.54184315586,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036312958144,
+                    49.005250166197
+                ]
+            },
+            "computed_rotation": [
+                -1.3996114505648,
+                0.73289648653031,
+                0.8277822045815
+            ],
+            "creator": {
+                "username": "dns_vlpt",
+                "id": "106249774946195"
+            },
+            "exif_orientation": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4037071,
+                    49.0053037
+                ]
+            },
+            "height": 1836,
+            "make": "samsung",
+            "model": "SM-A510F",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An_rnVnVDs6Xt463I8RgJZYbB7Aurhbl9_efokjkVZYzMnCDdHlzbyAwELCu7ug5M-9k6X8MQoSgEr8Lpr7TIpYKsReuWrLSbrY_Dgjrw5eFMQZ9MTls_eY60Qn64kK9tBxGpuW6y7vPoS9SuXqBljw?ccb=10-5&oh=00_AfCOxlhpix5VYOQEnCxAWXkFvUtBL8FoBBimxZv1pmlY7w&oe=656B643F&_nc_sid=201bca",
+            "merge_cc": 2.5479476601718e+18,
+            "sequence": "s94mi593sqrcp2pzdj1g2c",
+            "width": 3264,
+            "id": "971428826937580"
+        },
+        {
+            "altitude": 164.484,
+            "atomic_scale": 0.91356876485997,
+            "camera_parameters": [
+                0.43619724697064,
+                0.057120658425356,
+                0.001899696168921
+            ],
+            "camera_type": "fisheye",
+            "captured_at": 1641483261000,
+            "compass_angle": 75.252334738813,
+            "computed_altitude": 2.0359062096104,
+            "computed_compass_angle": 89.01370254391,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4032691339324,
+                    49.005339620032
+                ]
+            },
+            "computed_rotation": [
+                1.1468514488266,
+                -1.1885513397172,
+                1.1768328252124
+            ],
+            "creator": {
+                "username": "nakaner",
+                "id": "102187028688979"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4033545,
+                    49.0052571
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO7 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An9hgbwqGrMyp03NK1rSGOZRl3e_J-jVPgZ1fxtiVtui4uX1vUpWfz9MuCykuIsKfbiujPKzRxlgSRxcV5fIvygAEkCfgnntndo8GKmeX7lPT519Ygn3leiNH3N6ck2WkkAplvwCroFnuJR1jA57Ng?ccb=10-5&oh=00_AfDIz6fCJGY1sl7nMUEfb9eVqhyrjYPlGwqmKgdzUmMbnQ&oe=656B4CF9&_nc_sid=201bca",
+            "merge_cc": 1308359508,
+            "sequence": "C9Xn7HLEo5VY4iKxt0ODUu",
+            "width": 4000,
+            "id": "1737414879797158"
+        },
+        {
+            "altitude": 165.894,
+            "atomic_scale": 1.4775434490707,
+            "camera_parameters": [
+                0.44186472717085,
+                0.061720721671367,
+                0.0062072228327011
+            ],
+            "camera_type": "fisheye",
+            "captured_at": 1639652560000,
+            "compass_angle": 182.29259947974,
+            "computed_altitude": 1.6717070359737,
+            "computed_compass_angle": 181.21976230233,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4032870175779,
+                    49.005116737931
+                ]
+            },
+            "computed_rotation": [
+                -0.0049581556164308,
+                2.1831628243887,
+                -2.2121844450372
+            ],
+            "creator": {
+                "username": "nakaner",
+                "id": "102187028688979"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4033520999722,
+                    49.005102999972
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO7 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An_xupHkNoNeJkMAit4csFruRXSZrFinpTUY3sBAEhrNbetL0QokKp86UqnToe8tjqH9-GxhEvtYr4uuU7D9INM-CSOdLI-dc03IvTiDAqVi8lRz1oSaVs3narhDrLxlEuSd8BXiPgTtZL0Pp6k4VA?ccb=10-5&oh=00_AfALx9c0WzPzca2Yj5KHWBWpkxyHa2jMa0vjkM-qzOtfkw&oe=656B6CB2&_nc_sid=201bca",
+            "merge_cc": 1308359508,
+            "sequence": "iVTMW39aIjbF7x6qDJ5cBX",
+            "width": 4000,
+            "id": "1304617829996988"
+        },
+        {
+            "altitude": 163.60000610352,
+            "atomic_scale": 1.3465034439413,
+            "camera_parameters": [
+                0.91083378473059,
+                0.043511262429488,
+                -0.088928380886443
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1443632010566,
+            "compass_angle": 139.11238030799,
+            "computed_altitude": 2.464359886013,
+            "computed_compass_angle": 45.763314616886,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4038602381956,
+                    49.005320506781
+                ]
+            },
+            "computed_rotation": [
+                -0.7256268411824,
+                -1.6771524596639,
+                -1.8167891451579
+            ],
+            "creator": {
+                "username": "live",
+                "id": "109628561267560"
+            },
+            "exif_orientation": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.40389095,
+                    49.0053007
+                ]
+            },
+            "height": 1200,
+            "make": "HTC",
+            "model": "HTC One",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An8ozL13C-uxHnOQGb8WUZUC8WAOZbzYcWKmyrubo-wA7ix7ukL172YwJXx4RjekwGOrPUXUoEQ_A8PU2RJ_trVHX-pncukV9zIMeSStcS_78JOrPajpz94Rs3fo2TKAkql027wvDCNHPTIU4P74kw?ccb=10-5&oh=00_AfCCdL2VLLBMrciDhG_OdrsmXRQZKA9pZImjkqlbHfwhKQ&oe=656B58FD&_nc_sid=201bca",
+            "merge_cc": 2.4415438144936e+17,
+            "sequence": "3gsqwq5wq2hazvo0y2xc4t",
+            "width": 1600,
+            "id": "239144841320865"
+        },
+        {
+            "altitude": 146.04959016393,
+            "atomic_scale": 1.0033222093572,
+            "camera_parameters": [
+                0.84231967569871,
+                0.020747488704968,
+                0.0078379148921463
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1555428533078,
+            "compass_angle": 161.79162597656,
+            "computed_altitude": 5.9234262453392,
+            "computed_compass_angle": 181.15779087008,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4034124947421,
+                    49.005313198832
+                ]
+            },
+            "computed_rotation": [
+                0.038892496342753,
+                2.2365915959365,
+                -2.2002084546422
+            ],
+            "creator": {
+                "username": "karthoo",
+                "id": "106737178230266"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4034327616803,
+                    49.005331176639
+                ]
+            },
+            "height": 2448,
+            "make": "LG Electronics",
+            "model": "LG-H500f",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An_OiFntyZNuzhV7wYqtlIqwqxaLfrrWCZ7xtP-BmVIDkQn4pfm6WW-5PuPYD9yPYK3chemhICGp9TlrT786v24yyb0m5BuhAWiTw_Ayt1T0I0I1usUvbufvoughB2acF3pKjfxsoNndGxwsUZpuBQ?ccb=10-5&oh=00_AfAqccqqdhKJPFrJ-hB9LePBOTK0rQkMRNozaPSeGqfojA&oe=656B47B4&_nc_sid=201bca",
+            "merge_cc": 2.5479476601718e+18,
+            "sequence": "X5CeVGGpRC28Wsvv3OBSoQ",
+            "width": 3264,
+            "id": "4225711944116675"
+        },
+        {
+            "altitude": 171.284,
+            "atomic_scale": 0.98885120965967,
+            "camera_parameters": [
+                0.47263127784628,
+                -0.19230515059248,
+                0.030308053904923
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1660299924000,
+            "compass_angle": 0,
+            "computed_altitude": 2.7193333674222,
+            "computed_compass_angle": 5.4985363727059,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036224033973,
+                    49.005236239346
+                ]
+            },
+            "computed_rotation": [
+                1.7079471606198,
+                -0.09607739037747,
+                0.059137187869766
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036323999722,
+                    49.005242899972
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An_npuu1feAjbAIeKFInZeQ9IBjRODEb8SoN3h-lsPHuKV05z3PRn27CXmplDp8zXgdSlSFxkm7sq3_ydGrLMtEwl6eNXJAwCPO1qonawZUR3VVoQaOEuWZOI7NpBDTwKdEEMX2STDyMoAwN0z9T4g?ccb=10-5&oh=00_AfA7d1zzwhQBkVFtlbzV47AT9ch7hwED6U3b-dXmZYX4Ww&oe=656B58E4&_nc_sid=201bca",
+            "merge_cc": 247896713,
+            "sequence": "Ceg3fM6oQIs8tqpxvDLOZG",
+            "width": 4000,
+            "id": "596140525565578"
+        },
+        {
+            "altitude": 167.43319439994,
+            "atomic_scale": 0.9781324726818,
+            "camera_parameters": [
+                0.74326949511079,
+                0.0036390259261658,
+                -0.046676365129386
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1465988875089,
+            "compass_angle": 252.30243029067,
+            "computed_altitude": 3.4435427328572,
+            "computed_compass_angle": 276.21577868426,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.403368814333,
+                    49.005218263627
+                ]
+            },
+            "computed_rotation": [
+                -1.1614030909043,
+                1.2397623960407,
+                1.3403644561307
+            ],
+            "creator": {
+                "username": "dns_vlpt",
+                "id": "106249774946195"
+            },
+            "exif_orientation": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4035333,
+                    49.0052279
+                ]
+            },
+            "height": 1836,
+            "make": "samsung",
+            "model": "SM-A510F",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An-CBLyo0PCW3iY6heikeVN0Crh0nlShLugUvwIRUPLMxe6ixjY6DUruc1qdvCiz9FSZaUzwcNuNDpG8rPJNGp9M2uJ3i0hoT7-XtPCaDVBMeAPhSah2BA3sa-Qtb4kGQmTZXmEP7E6GP4wffB1i3g?ccb=10-5&oh=00_AfAUci6OroORqTKoUnr1dSpDEyHAuAbKnKoBTLkyJiPG5w&oe=656B7294&_nc_sid=201bca",
+            "merge_cc": 2.5479476601718e+18,
+            "sequence": "s94mi593sqrcp2pzdj1g2c",
+            "width": 3264,
+            "id": "806207483634954"
+        },
+        {
+            "altitude": 136.91861386139,
+            "atomic_scale": 1.0032715151584,
+            "camera_parameters": [
+                0.84231967569871,
+                0.020747488704968,
+                0.0078379148921463
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1555428539977,
+            "compass_angle": 191.724609375,
+            "computed_altitude": 3.7005675910041,
+            "computed_compass_angle": 179.2047208942,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4033375379478,
+                    49.004978876405
+                ]
+            },
+            "computed_rotation": [
+                0.029780942643568,
+                2.1615040556157,
+                -2.3352398604415
+            ],
+            "creator": {
+                "username": "karthoo",
+                "id": "106737178230266"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4033521653465,
+                    49.005107325149
+                ]
+            },
+            "height": 2448,
+            "make": "LG Electronics",
+            "model": "LG-H500f",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An9WU6tG8lWo9iZCz3RGp7adxO3ZpYxTSUMwpR9BRhSxks9eWB3h97_dPqlQo2ONEScpww6DMfEKRroRBrsAkztOB5O8DRN9TTMEVqAcJPYVch20VTi-Z2o1w8AIQyyST3em1rjZMePq7GZ7nKp0VQ?ccb=10-5&oh=00_AfB8NmcAKkWBP5NzrUpi3U9I3eNiHLFhMmKUHJ3KJwTwBw&oe=656B44A2&_nc_sid=201bca",
+            "merge_cc": 2.5479476601718e+18,
+            "sequence": "X5CeVGGpRC28Wsvv3OBSoQ",
+            "width": 3264,
+            "id": "137039781806570"
+        },
+        {
+            "altitude": 164.878,
+            "atomic_scale": 0.98885116094211,
+            "camera_parameters": [
+                0.47263127784628,
+                -0.19230515059248,
+                0.030308053904923
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1660299951000,
+            "compass_angle": 0,
+            "computed_altitude": 2.7154180184007,
+            "computed_compass_angle": 4.002180637676,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036223870285,
+                    49.005236329253
+                ]
+            },
+            "computed_rotation": [
+                1.752382162527,
+                -0.071884214284569,
+                0.042098171960164
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036284,
+                    49.005246399972
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An_Raw1WKTNF69RwXyFEwMdrGcDGhRe75dyHdpnVFZCr7svtz2fae-DYLh81zNEI4YbPN91_bB8zXeyAY97aagqPaVGPkrxfyjeRbOPkMCXZIh_Z44V6K41R5CLnfH_LeUwH2r0pH6PedITEnlkp0A?ccb=10-5&oh=00_AfAcB2WFl9BVrwBRHW_I6vraS2CIGOQhe81_pIXny2watg&oe=656B458A&_nc_sid=201bca",
+            "merge_cc": 247896713,
+            "sequence": "Ceg3fM6oQIs8tqpxvDLOZG",
+            "width": 4000,
+            "id": "609565897227230"
+        },
+        {
+            "altitude": 164.558,
+            "atomic_scale": 0.95722951836934,
+            "camera_parameters": [
+                0.51944813477308,
+                -0.17647679986571,
+                0.024554365081556
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1559323189000,
+            "compass_angle": 0,
+            "computed_altitude": 3.1667505204678,
+            "computed_compass_angle": 194.6831366708,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4033592457249,
+                    49.005242689526
+                ]
+            },
+            "computed_rotation": [
+                0.44416430004679,
+                2.2748792156858,
+                -1.9958609170681
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4033885,
+                    49.0052621
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An-JctgpccTd2jySQpNN_tr6dWHDdCWG3fvzXCwQFhwHTFxX-cIjA2edqVvTglqhewhSPDv0xALtrYcvyfswzHl5mwO4JXBFg4HMQzbkYQcO-1q-Ch9GFL-gm8fPCSmrDG70FBX4kqKTRqzHlI-7DA?ccb=10-5&oh=00_AfC6qz2IANW77s7cqNVIZOod-_HP4IDoGw6qq7PHkbQY9A&oe=656B474B&_nc_sid=201bca",
+            "merge_cc": 2.7284593838654e+18,
+            "sequence": "w46yAodpnPs888ui8cYBQQ",
+            "width": 4000,
+            "id": "913413796124110"
+        },
+        {
+            "altitude": 165.297,
+            "atomic_scale": 0.91375996828939,
+            "camera_parameters": [
+                0.43619724697064,
+                0.057120658425356,
+                0.001899696168921
+            ],
+            "camera_type": "fisheye",
+            "captured_at": 1641483266000,
+            "compass_angle": 83.32710206698,
+            "computed_altitude": 2.1423049792647,
+            "computed_compass_angle": 81.316128297612,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036492721965,
+                    49.005363885706
+                ]
+            },
+            "computed_rotation": [
+                1.262744410019,
+                -1.0951162807886,
+                1.0938446770894
+            ],
+            "creator": {
+                "username": "nakaner",
+                "id": "102187028688979"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4037117999722,
+                    49.005310199972
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO7 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An8hvQ2WdtuMa53CyVV6nzkCbRjcpd3JQeKcijcc2Bci4HOLz3cGBYDB7_ngShoP_JCJg9S32rcIw23H6v8-zhh4U9Gl_MEzitb12iCTZleU9BBJ1SAZ6HpTDXZAJoiZuG9LHa5W5Wdb42SiaqBABcQ?ccb=10-5&oh=00_AfDludByZIuq6o8FDSaRHOSQ-6AvJlLny71g397Wgwirvg&oe=656B4187&_nc_sid=201bca",
+            "merge_cc": 1308359508,
+            "sequence": "C9Xn7HLEo5VY4iKxt0ODUu",
+            "width": 4000,
+            "id": "330463092260272"
+        },
+        {
+            "altitude": 165.29090027178,
+            "atomic_scale": 0.97813381748359,
+            "camera_parameters": [
+                0.74326949511079,
+                0.0036390259261658,
+                -0.046676365129386
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1465988872070,
+            "compass_angle": 217.48926077412,
+            "computed_altitude": 3.499879905954,
+            "computed_compass_angle": 231.53251584514,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036828079553,
+                    49.005272306028
+                ]
+            },
+            "computed_rotation": [
+                -1.423844579162,
+                0.65550283981768,
+                0.74357044250983
+            ],
+            "creator": {
+                "username": "dns_vlpt",
+                "id": "106249774946195"
+            },
+            "exif_orientation": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4037867,
+                    49.0053591
+                ]
+            },
+            "height": 1836,
+            "make": "samsung",
+            "model": "SM-A510F",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An-HHLgjeeurfbS9YXYO27Uf_AWPjcZISTkZ4nBra0wCRkyW5DOYkhD9YW9_6brWhpOw1JOO7a3nWsim1rSoAYpD7dcVGJxRyCxT9y71kWZjWb0DvWlgcg96-vBKOQ4nwbOMMvCh2IcfA9XEVtV_4w?ccb=10-5&oh=00_AfBWFJdZr34qFuXj4GQYoN4asxQc7qNl53K_2_cTzMRHzA&oe=656B406E&_nc_sid=201bca",
+            "merge_cc": 2.5479476601718e+18,
+            "sequence": "s94mi593sqrcp2pzdj1g2c",
+            "width": 3264,
+            "id": "1716943878492361"
+        },
+        {
+            "altitude": 163.919,
+            "atomic_scale": 0.95552273561456,
+            "camera_parameters": [
+                0.51944813477308,
+                -0.17647679986571,
+                0.024554365081556
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1559323193000,
+            "compass_angle": 0,
+            "computed_altitude": 2.8948752172291,
+            "computed_compass_angle": 182.37343249924,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4033284402108,
+                    49.00508861152
+                ]
+            },
+            "computed_rotation": [
+                0.15700158654619,
+                2.3745370034366,
+                -2.1005167276342
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4033511999722,
+                    49.0051129
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An-d9cpTGfOt3pe_ypf42O_5p9OeSc5YqtvVmGt9RCF8UFZxQFBw95_4s1dH5vlp9Z1NtSt_9FOWNxiPCJAkZFnrxz2ZnFkIQoKzP__loCXnlYmMYlOR6-6DvbonoRar7Cwo50OWxK8damBAnHn22w?ccb=10-5&oh=00_AfAIHOjhDLLBRjmp3htjR0-FFOoVxPf6X-t4Mw4C_-EzsQ&oe=656B51DB&_nc_sid=201bca",
+            "merge_cc": 2.7284593838654e+18,
+            "sequence": "w46yAodpnPs888ui8cYBQQ",
+            "width": 4000,
+            "id": "975788706492604"
+        },
+        {
+            "altitude": 166.415,
+            "atomic_scale": 1.477571737292,
+            "camera_parameters": [
+                0.44186472717085,
+                0.061720721671367,
+                0.0062072228327011
+            ],
+            "camera_type": "fisheye",
+            "captured_at": 1639652555000,
+            "compass_angle": 198.83528079976,
+            "computed_altitude": 2.0457069547847,
+            "computed_compass_angle": 199.06534036019,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.403355483645,
+                    49.005384495145
+                ]
+            },
+            "computed_rotation": [
+                0.2282634413203,
+                2.0028019119464,
+                -1.987976400466
+            ],
+            "creator": {
+                "username": "nakaner",
+                "id": "102187028688979"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4034259,
+                    49.005354799972
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO7 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An_qlw32DmXW5Me5b10fN-0JUJw8H8EwXV-xdoi8SGsZlrkMD-lPIDanPTeEjsN9RQyYgCgfE-jBoBsnL9nZHQlZjR0kCwzEne8D0DglvgpgMSXi8w7-sdO2xTcSvD41vOlAsDgLgyHs1kJJq93GYQ?ccb=10-5&oh=00_AfAs6uUh6XkQrFW3QCbY2MtdkTSkEp-ZpQCtbWLE-ADbzg&oe=656B4813&_nc_sid=201bca",
+            "merge_cc": 1308359508,
+            "sequence": "iVTMW39aIjbF7x6qDJ5cBX",
+            "width": 4000,
+            "id": "608677627128173"
+        },
+        {
+            "altitude": 164.375,
+            "atomic_scale": 0.98882012107057,
+            "camera_parameters": [
+                0.47263127784628,
+                -0.19230515059248,
+                0.030308053904923
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1660299957000,
+            "compass_angle": 0,
+            "computed_altitude": 2.7190380236134,
+            "computed_compass_angle": 4.5254557047498,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036224040073,
+                    49.005236350029
+                ]
+            },
+            "computed_rotation": [
+                1.7507161359704,
+                -0.07397667553215,
+                0.053665199732956
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4036308,
+                    49.0052462
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An-S1RwAiSf6RrAB5ufFKw4tLQQyLZyYLqSisfB6-nXco4mGQvQX8V_bud6TvvKoXNVBOzMEwYrJk_gfipe5yTxpcBQSiUoxaovIHYwYWG0iR5BRjJqo_Ka1Y3V2yhhDLgLzSO-o3Yq1Wq9lIED0fl4?ccb=10-5&oh=00_AfBG0gtgoHdt7NPco_X9p7wRLO8gdxDYo7Z9iLYzhhQRdQ&oe=656B7207&_nc_sid=201bca",
+            "merge_cc": 247896713,
+            "sequence": "Ceg3fM6oQIs8tqpxvDLOZG",
+            "width": 4000,
+            "id": "1105610756721993"
+        },
+        {
+            "altitude": 164.076,
+            "atomic_scale": 0.95602673564072,
+            "camera_parameters": [
+                0.51944813477308,
+                -0.17647679986571,
+                0.024554365081556
+            ],
+            "camera_type": "perspective",
+            "captured_at": 1559323192000,
+            "compass_angle": 0,
+            "computed_altitude": 2.8993854168802,
+            "computed_compass_angle": 185.16579256579,
+            "computed_geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.40333175202,
+                    49.005128916202
+                ]
+            },
+            "computed_rotation": [
+                0.17996141268499,
+                2.3448638533965,
+                -2.055959089621
+            ],
+            "creator": {
+                "username": "mfa",
+                "id": "102609045317136"
+            },
+            "exif_orientation": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4033549999722,
+                    49.0051537
+                ]
+            },
+            "height": 3000,
+            "make": "GoPro",
+            "model": "HERO5 Black",
+            "thumb_original_url": "https://scontent-mxp2-1.xx.fbcdn.net/m1/v/t6/An-PhPNzdmh1JWRIZsdgm0GxHD6Az7GsY_QKOq8yeEdgVEL0b_kDAdP5xojXwZreanc7vpiTYmh1SXLyiPFMQVsH-cQFH53Qyqs7FUBH1Gaz85ksp3wUZh-bvq4jBX55KtjB5w5FdREI2oI1CFlhdNs?ccb=10-5&oh=00_AfAZ4BYVIwUoY9G1j0AnSk5gtaCakY3vRNxx_sDl8ZY7Iw&oe=656B3BDD&_nc_sid=201bca",
+            "merge_cc": 2.7284593838654e+18,
+            "sequence": "w46yAodpnPs888ui8cYBQQ",
+            "width": 4000,
+            "id": "806732906611476"
+        }
+    ]
+}
