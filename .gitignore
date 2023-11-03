@@ -161,3 +161,6 @@ cython_debug/
 
 # for security reasons:
 mapillary_token
+
+# tests:
+tests

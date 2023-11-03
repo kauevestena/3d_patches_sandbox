@@ -5,6 +5,9 @@ import numpy as np
 from shapely.geometry import Point, box
 from math import cos, pi
 import urllib
+from lib import *
+import wget
+from time import sleep
 
 #function to define a random lat, lon in the bounding box:
 def random_point_in_bbox(input_bbox):
@@ -22,7 +25,7 @@ def random_point_in_bbox(input_bbox):
     lon = min_lon + (max_lon - min_lon) * np.random.random()
     return lon, lat
 
-def get_mapillary_images(minLat, minLon, maxLat, maxLon, token):
+def get_mapillary_images(minLat, minLon, maxLat, maxLon, token,outpath=None):
     """
     Request images from Mapillary API given two coordinates and radius.
 
@@ -71,7 +74,13 @@ def get_mapillary_images(minLat, minLon, maxLat, maxLon, token):
         ])
     }
     response = requests.get(url, params=params)
-    return response.json()
+
+    as_dict = response.json()
+
+    if outpath:
+        dump_json(as_dict, outpath)
+
+    return as_dict
 
 def radius_to_degrees(radius,lat):
     """
@@ -98,3 +107,13 @@ def get_bounding_box(lon, lat, radius):
 
     point = Point(lon, lat)
     return box(point.x - radius_deg, point.y - radius_deg, point.x + radius_deg, point.y + radius_deg).bounds
+
+# function to download an image from a url:
+def download_mapillary_image(url, outfilepath,cooldown=1):
+    try:
+        wget.download(url, out=outfilepath)
+
+        if cooldown:
+            sleep(cooldown)
+    except Exception as e:
+        print('error:',e)
