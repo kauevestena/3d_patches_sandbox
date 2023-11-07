@@ -54,7 +54,7 @@ def zoedepth_prediction(filepath,f=None,outpath=None):
 
     repo = "isl-org/ZoeDepth"
 
-    model_zoe_nk = torch.hub.load(repo, "ZoeD_NK", pretrained=True)
+    model_zoe_nk = torch.hub.load(repo, "ZoeD_K", pretrained=True)
 
     zoe = model_zoe_nk.to('cuda')
 

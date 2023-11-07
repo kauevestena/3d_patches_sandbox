@@ -1,7 +1,18 @@
 from midas_funcs import *
 
+# checking if the code is running on windows:
+import os
+platform = os.name
+
+
 def main():
-    basepath = '../sample_mapillary_data/data'
+
+    if platform == 'nt':
+        basepath = r'..\sample_mapillary_data\data'
+
+    else:
+        basepath = '../sample_mapillary_data/data'
+
 
     for folderpath in listdir_fullpath(basepath):
         for itempath in listdir_fullpath(folderpath):

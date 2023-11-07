@@ -5,6 +5,6 @@ import torch
 # midas_model = torch.hub.load("intel-isl/MiDaS", model_type)
 
 
-import torch
+# import torch
 
-torch.hub.help("intel-isl/MiDaS", "DPT_BEiT_L_384", force_reload=True)
+# torch.hub.help("intel-isl/MiDaS", "DPT_BEiT_L_384", force_reload=True)
