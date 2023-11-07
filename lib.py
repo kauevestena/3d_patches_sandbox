@@ -1,7 +1,7 @@
 from constants import *
 import json,os
 import numpy as np
-import geopandas as gpd
+from tqdm import tqdm
 
 def get_mapillary_token():
     with open('mapillary_token', 'r') as f:
@@ -44,26 +44,6 @@ def calculate_angle_between_vectors(vector1, vector2,return_radians=False):
 def random_entry(input_list):
     return input_list[np.random.randint(len(input_list))]
 
-# a function that returns the geometry of a random rown in a geodataframe:
-def random_geometry(inputpath):
-    input_gdf = gpd.read_file(inputpath)
-    random_row = input_gdf.iloc[np.random.randint(len(input_gdf))]
-    if random_row.geometry.geom_type == 'Point':
-        return tuple(random_row.geometry.coords[0])
-    else:
-        return random_geometry(inputpath)
-    
-def random_geometry_with_capture(inputpath,cap_key='capture'):
-    input_gdf = gpd.read_file(inputpath)
-
-    filename = os.path.basename(inputpath).split('.')[0]
-
-    random_row = input_gdf.iloc[np.random.randint(len(input_gdf))]
-    if random_row.geometry.geom_type == 'Point':
-        return tuple(random_row.geometry.coords[0]), random_row[cap_key], filename
-    else:
-        return random_geometry(inputpath)
-    
 def create_folder_if_not_exists(path):
     if not os.path.exists(path):
         os.makedirs(path)
@@ -101,3 +81,45 @@ def parse_pointcloud(filepath,outpath=None):
         np.savetxt(outpath,np.asarray(list_pcd))
 
     return np.asarray(list_pcd)
+
+def save_as_pointcloud(depth_data,img,f, outpath,invertRB=False):
+    H, W, _ = img.shape
+
+    ref_dim = max(H,W)
+
+    f = f * ref_dim
+
+    t_h = (H - 1)/2 
+    t_w = (W - 1)/2 
+
+    with open(outpath,'w+') as writer:
+        for c in tqdm(range(W)):
+            for l in range(H):
+                pi = np.array([c-t_w,l-t_h,f])
+                pn = pi / np.linalg.norm(pi)
+
+                p = pn * depth_data[l,c]
+
+                color = img[l,c]
+
+                if color[0] == 255 and color[1] == 255 and color[2] == 255:
+                    pass
+                else:
+                    writer.write(f'{p[0]:.3f},{p[1]:.3f},{p[2]:.3f},{color[2]},{color[1]},{color[0]}\n')
+
+def prepare_img_data_dict(json_path):
+    img_metadata = read_json(json_path)
+
+    new_dict = {}
+
+    for entry in img_metadata['data']:
+        new_dict[entry['id']] = entry
+
+    return new_dict
+
+# function to get filename from a path:
+def get_filename_from_path(path, with_extension=False):
+    filename = os.path.basename(path)
+    if with_extension:
+        return filename
+    return filename.split('.')[0]
