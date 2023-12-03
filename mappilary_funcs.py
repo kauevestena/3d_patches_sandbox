@@ -27,7 +27,7 @@ def random_point_in_bbox(input_bbox):
 
 def get_mapillary_images(minLat, minLon, maxLat, maxLon, token,outpath=None):
     """
-    Request images from Mapillary API given two coordinates and radius.
+    Request images from Mapillary API given a bbox
 
     Parameters:
         minLat (float): The latitude of the first coordinate.
