@@ -8,6 +8,7 @@ import urllib
 from lib import *
 import wget
 from time import sleep
+from geo_funcs import *
 
 #function to define a random lat, lon in the bounding box:
 def random_point_in_bbox(input_bbox):

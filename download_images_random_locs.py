@@ -31,7 +31,10 @@ for i in range(1000):
     out_jsonpath = os.path.join(outfolderpath, outname + '.json')
 
     # getting imagery metadata from mappilary:
-    img_data = get_mapillary_images(*get_bounding_box(point[1],point[0], radius), mappilary_token, out_jsonpath)
+
+    bbox = get_bounding_box(point[1],point[0], radius)
+    print(bbox)
+    img_data = get_mapillary_images(*bbox, mappilary_token, out_jsonpath)
 
     if img_data.get('data'):
         imgs_outpath = os.path.join(outfolderpath,'images')
